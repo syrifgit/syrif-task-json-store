@@ -384,8 +384,12 @@
           "taskId": 4820
         },
         {
-          "taskId": 1764,
-          "note": "Can move to farmers or stalls if you prefer."
+          "customItem": {
+            "id": "sc-02",
+            "label": "Pickpocket a Citizen 10 times in a row",
+            "icon": 1448,
+            "description": "Can move to farmers or stalls if you prefer."
+          }
         },
         {
           "customItem": {
