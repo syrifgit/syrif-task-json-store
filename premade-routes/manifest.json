@@ -5,5 +5,12 @@
     "author": "Faux",
     "description": "~2,500+ points routed. Relics: Animal wrangler (pooner), Dodgy deals.",
     "taskType": "LEAGUE_5"
+  },
+  {
+    "filename": "faux-starting-route",
+    "name": "Demo: Doubleshine's L6 Starting Route",
+    "author": "Doubleshine",
+    "description": "",
+    "taskType": "LEAGUE_5"
   }
 ]

@@ -1,0 +1,1207 @@
+{
+  "id": "doubleshine-day1-v1",
+  "name": "Doubleshine Day 1 Guide v1.0",
+  "taskType": "LEAGUE_5",
+  "author": "Doubleshine",
+  "description": "Day 1 route. Barbarian -> Woodsman -> Map -> Transmute -> Soul Harvest. Accounts for Barbarian Gathering and Endless Harvest to clear difficult gathering tasks early. After Tier 2, segments are largely independent - move around as needed and don't get stuck in bottlenecks. Not accounting for Slayer, Herblore, Farming, Runecrafting (start farming if you have seeds). Skilling tasks take longer on Abundance, ditch them early if not needed.",
+  "sections": [
+    {
+      "id": "sec-civitas-1",
+      "name": "Leagues Start / Civitas 1 (22 after)",
+      "items": [
+        {
+          "taskId": 2645
+        },
+        {
+          "taskId": 2646
+        },
+        {
+          "customItem": {
+            "id": "c1-03",
+            "label": "Turn off run",
+            "description": "Turn it back on please unless you are insane."
+          }
+        },
+        {
+          "taskId": 1764
+        },
+        {
+          "customItem": {
+            "id": "c1-05",
+            "label": "Bow near Quetzal",
+            "icon": 1504
+          }
+        },
+        {
+          "taskId": 1192,
+          "note": "If Abundance/EH: take the Bird to Sunset Coast, run South to fishing spot and buy Big Fishing Net (20 gp), fly back and continue."
+        },
+        {
+          "customItem": {
+            "id": "c1-07",
+            "label": "Fill something with Water Pump",
+            "icon": 1487,
+            "description": "Charter Store - buy Shears, Pot, Jug, Knife. Use bucket of water on jug. Can kill a seagull here for fun."
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-08",
+            "label": "Talk to the Port Master"
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-09",
+            "label": "Talk to the Gladiator",
+            "description": "Bank unneeded items."
+          },
+          "note": "Bank stop."
+        },
+        {
+          "taskId": 3875,
+          "note": "30 pts. Skip Fishing section for EH/Abundance, you'll get big net at Kastori."
+        },
+        {
+          "taskId": 3794,
+          "note": "If rates are fantastic, get some gold (~1000g)."
+        },
+        {
+          "customItem": {
+            "id": "c1-12",
+            "label": "Old Boot",
+            "icon": 1474,
+            "description": "30 pts."
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-12b",
+            "label": "Shop run - bar + grocery",
+            "icon": 1448,
+            "description": "Bar: Moonlite, Cup of Tea, Stew (extra stew for potential +1, eat it). Grocery: Onion, 3 Rabbit, 15 Pineapples (if inventory allows)."
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-13",
+            "label": "Drink Moonlite",
+            "icon": 1479
+          }
+        },
+        {
+          "taskId": 2211
+        },
+        {
+          "taskId": 3904
+        },
+        {
+          "taskId": 3903
+        },
+        {
+          "taskId": 3826
+        },
+        {
+          "customItem": {
+            "id": "c1-18",
+            "label": "Activate Prayer near an altar",
+            "icon": 1467
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-19",
+            "label": "Cry near a child"
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-20",
+            "label": "Sell Silk to Silk Merchant",
+            "icon": 1448,
+            "description": "Buy and sell lmao."
+          }
+        },
+        {
+          "customItem": {
+            "id": "c1-21",
+            "label": "Steal some Bread",
+            "icon": 1448,
+            "description": "Floria's Fashion - Buy Red Cape + Apron (any color works)."
+          }
+        },
+        {
+          "taskId": 1191
+        }
+      ]
+    },
+    {
+      "id": "sec-west-fortis-1",
+      "name": "West Fortis 1 (26 after)",
+      "items": [
+        {
+          "taskId": 1214,
+          "note": "Hold onto wool."
+        },
+        {
+          "taskId": 5906,
+          "note": "Hold onto milk. Run South to Hunter Guild after."
+        },
+        {
+          "taskId": 1771,
+          "note": "Throw 15 Pineapples in Compost Bin. Pick 6 Potato if you can, save 1 for later."
+        },
+        {
+          "customItem": {
+            "id": "wf1-04",
+            "label": "Quetzal to Quetzacotli Gorge",
+            "icon": 1504
+          }
+        },
+        {
+          "customItem": {
+            "id": "wf1-05",
+            "label": "Mountain Guide to Nemu's Retreat",
+            "icon": 1503
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-auburnvale-1",
+      "name": "Auburnvale (31 after)",
+      "items": [
+        {
+          "customItem": {
+            "id": "av1-01",
+            "label": "Admire some beautiful scenery"
+          }
+        },
+        {
+          "customItem": {
+            "id": "av1-02",
+            "label": "Step on Ent Trail",
+            "description": "Activate Statue for later task."
+          }
+        },
+        {
+          "customItem": {
+            "id": "av1-03",
+            "label": "Drink a cup of tea in Auburn Valley"
+          }
+        },
+        {
+          "taskId": 1824
+        },
+        {
+          "customItem": {
+            "id": "av1-05",
+            "label": "Pick 6 Flax",
+            "icon": 1501,
+            "description": "After: Mountain Guide back to Quetz Gorge, then Bird to Tal Teklan. Buy 6 Iron Arrows at shop."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-tal-teklan",
+      "name": "Tal Teklan (38 after)",
+      "items": [
+        {
+          "customItem": {
+            "id": "tt-01",
+            "label": "Dance near a Bard (West Docks)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tt-01b",
+            "label": "Shop run - dyes, runes, bank",
+            "icon": 1448,
+            "description": "Buy Purple Dye and Orange Dye. Buy extra runes for Earth Strike (extra air until lvl 9). Bank: bow, axe, coins, runes, melee weapon."
+          }
+        },
+        {
+          "customItem": {
+            "id": "tt-02",
+            "label": "Dye a Cape Purple",
+            "description": "Then dye it orange to rep team Doubleshine."
+          }
+        },
+        {
+          "taskId": 2200
+        },
+        {
+          "customItem": {
+            "id": "tt-04",
+            "label": "Shoot 6 iron arrows",
+            "icon": 1465,
+            "description": "Can do at crab if needed. Train magic to lvl 9 if waiting, but keep runes for later."
+          }
+        },
+        {
+          "taskId": 2237,
+          "note": "Take bones for later."
+        },
+        {
+          "customItem": {
+            "id": "tt-06",
+            "label": "Witness Gemstone Crab burrow away",
+            "description": "If it's up soon. Do not wait."
+          }
+        },
+        {
+          "customItem": {
+            "id": "tt-07",
+            "label": "Mine some Clay",
+            "icon": 1456,
+            "description": "Can mine some copper here too. May get lvl 15."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-kastori",
+      "name": "Kastori (58 after)",
+      "items": [
+        {
+          "customItem": {
+            "id": "ka-01",
+            "label": "Travel in Achilka's Boat",
+            "icon": 1504
+          }
+        },
+        {
+          "customItem": {
+            "id": "ka-02",
+            "label": "Pet Caique (NW)",
+            "description": "Might be able to snipe crab here."
+          }
+        },
+        {
+          "taskId": 4497,
+          "note": "Fishing Shop: buy Big Fishing Net, Rod + Bait."
+        },
+        {
+          "customItem": {
+            "id": "ka-04",
+            "label": "Defeat an Imp",
+            "icon": 1459
+          }
+        },
+        {
+          "taskId": 2236,
+          "note": "Get ashes. Disable BG knapsack and EH banking if needed to catch/cook here. If you mess up, just bank later."
+        },
+        {
+          "taskId": 1833
+        },
+        {
+          "taskId": 1834
+        },
+        {
+          "taskId": 1835,
+          "note": "Get lvl 20 fishing while here."
+        },
+        {
+          "customItem": {
+            "id": "ka-09",
+            "label": "Chop a Tree in Tlati Rainforest",
+            "icon": 1519
+          }
+        },
+        {
+          "taskId": 4825
+        },
+        {
+          "customItem": {
+            "id": "ka-11",
+            "label": "Burn some Logs",
+            "icon": 1519
+          }
+        },
+        {
+          "taskId": 1788
+        },
+        {
+          "customItem": {
+            "id": "ka-13",
+            "label": "Eat Rabbit"
+          }
+        },
+        {
+          "taskId": 4828
+        },
+        {
+          "customItem": {
+            "id": "ka-15",
+            "label": "Cook Something with an Apron",
+            "icon": 1488
+          }
+        },
+        {
+          "taskId": 2647
+        },
+        {
+          "taskId": 2648
+        },
+        {
+          "taskId": 2649
+        },
+        {
+          "taskId": 2650,
+          "note": "30 pter."
+        },
+        {
+          "taskId": 1924,
+          "note": "If you didn't do Old Boot, Casket, House Key - do them now."
+        }
+      ]
+    },
+    {
+      "id": "sec-yamas-lair",
+      "name": "Yama's Lair (60 after) - Tier 2 ~ Woodsman",
+      "description": "Tier 2 unlock at ~58 tasks ~ 600 pts (Woodsman). Next goal: 34 Thieving and 32 Agility.",
+      "items": [
+        {
+          "taskId": 1220
+        },
+        {
+          "customItem": {
+            "id": "yl-02",
+            "label": "666 Stepping stones",
+            "icon": 1518,
+            "description": "Might skip as BG, up to you. Basically get 32 Agility."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-south-civitas",
+      "name": "South Civitas (70 after)",
+      "items": [
+        {
+          "taskId": 4820
+        },
+        {
+          "taskId": 1764,
+          "note": "Can move to farmers or stalls if you prefer."
+        },
+        {
+          "customItem": {
+            "id": "sc-03",
+            "label": "Feed a dog some Bones"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sc-04",
+            "label": "Use the Pottery Oven in Civitas",
+            "icon": 1457
+          }
+        },
+        {
+          "customItem": {
+            "id": "sc-05",
+            "label": "Sit near Stolen Cabbage"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sc-06",
+            "label": "Buy Mace",
+            "icon": 1480
+          }
+        },
+        {
+          "customItem": {
+            "id": "sc-07",
+            "label": "Defeat a Rat",
+            "icon": 1459
+          }
+        },
+        {
+          "customItem": {
+            "id": "sc-08",
+            "label": "Pick 6 Wheat, Cabbage, Potato",
+            "icon": 1501
+          }
+        },
+        {
+          "taskId": 3900
+        },
+        {
+          "customItem": {
+            "id": "sc-10",
+            "label": "Fairy ring to Aldarin (CKQ)",
+            "icon": 1504,
+            "description": "Can check Zanaris for cow for later cowhide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-aldarin",
+      "name": "Aldarin (75 after)",
+      "items": [
+        {
+          "taskId": 1216
+        },
+        {
+          "taskId": 1935
+        },
+        {
+          "taskId": 1190,
+          "note": "Crafting grind is great here, ideally for lvl 46/50 and cash. Get Chisel from Charter. Buy Uncut Gems 1 at a time, cut, resell 1 at a time. Save 1 Sapphire, 1 Emerald, 2 Rubies for later."
+        },
+        {
+          "customItem": {
+            "id": "al-04",
+            "label": "Cut a Ruby",
+            "icon": 1471
+          }
+        },
+        {
+          "customItem": {
+            "id": "al-05",
+            "label": "Defeat a Seagull",
+            "icon": 1459,
+            "description": "Run down to Mistrock. Buy Steel Pickaxe. Run North to Bird -> Fly to Sunset Coast."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-sunset-coast-1",
+      "name": "Sunset Coast (79 after)",
+      "items": [
+        {
+          "taskId": 1866,
+          "note": "Buy from General Store. Pick up Pestle and Mortar. Grab Spade. Helmet Shop: Buy Bronze, Steel, Addy Full Helm."
+        },
+        {
+          "customItem": {
+            "id": "sn-02",
+            "label": "Fill a bucket with Sand at Sunset Coast",
+            "icon": 1487
+          }
+        },
+        {
+          "customItem": {
+            "id": "sn-03",
+            "label": "Kill Hill Giant for Pact",
+            "icon": 1459,
+            "description": "Might be super crowded, good luck."
+          }
+        },
+        {
+          "taskId": 3809
+        }
+      ]
+    },
+    {
+      "id": "sec-west-fortis-2",
+      "name": "West Fortis (103 after)",
+      "description": "Primarily a Melee route. You can ranged/mage whatever, just get supplies in Tal Teklan first.",
+      "items": [
+        {
+          "customItem": {
+            "id": "wf2-01",
+            "label": "Buy Tyras Helm",
+            "icon": 1452,
+            "description": "If you need, pick up stews at bar."
+          }
+        },
+        {
+          "taskId": 1849
+        },
+        {
+          "taskId": 3862,
+          "note": "Probably need 5 to be safe."
+        },
+        {
+          "taskId": 3885
+        },
+        {
+          "taskId": 3886
+        },
+        {
+          "taskId": 3877
+        },
+        {
+          "customItem": {
+            "id": "wf2-07",
+            "label": "Pickpocket a Knight of Varlamore 20 times",
+            "icon": 1448
+          }
+        },
+        {
+          "taskId": 4822
+        },
+        {
+          "customItem": {
+            "id": "wf2-08b",
+            "label": "Shop run - Blacksmith",
+            "icon": 1449,
+            "description": "Iron Dagger, Steel Dagger (training). Mithril Spear. Adamant Spear. Bronze Platebody + Plateskirt. Adamant Platebody + Plateskirt. Equip as you go, save Mithril Spear for later."
+          }
+        },
+        {
+          "customItem": {
+            "id": "wf2-09",
+            "label": "Attack a dummy",
+            "icon": 1459
+          }
+        },
+        {
+          "taskId": 2634
+        },
+        {
+          "customItem": {
+            "id": "wf2-11",
+            "label": "Defeat a thief",
+            "icon": 1459
+          }
+        },
+        {
+          "customItem": {
+            "id": "wf2-12",
+            "label": "Exit Civitas via Secret Passage"
+          }
+        },
+        {
+          "taskId": 5905
+        },
+        {
+          "customItem": {
+            "id": "wf2-14",
+            "label": "Defeat Oryx with Melee",
+            "icon": 1459
+          }
+        },
+        {
+          "taskId": 1187,
+          "note": "Probably with mage or skip."
+        },
+        {
+          "taskId": 5969
+        },
+        {
+          "taskId": 5502,
+          "note": "Run North to Quetz Gorge / Mountain. Fly to Auburnvale."
+        },
+        {
+          "taskId": 2208
+        },
+        {
+          "customItem": {
+            "id": "wf2-19",
+            "label": "Equip Tyras Helm",
+            "icon": 1452
+          }
+        },
+        {
+          "customItem": {
+            "id": "wf2-20",
+            "label": "Equip full Bronze",
+            "icon": 1462
+          }
+        },
+        {
+          "taskId": 5218
+        },
+        {
+          "taskId": 1911
+        },
+        {
+          "taskId": 1905
+        },
+        {
+          "taskId": 1906,
+          "note": "You might not have enough combat yet, finish as you train more combat."
+        }
+      ]
+    },
+    {
+      "id": "sec-auburnvale-2",
+      "name": "Auburnvale 2 (123 after)",
+      "description": "Lots of Woodcutting. Do all forestry events and weave in nearby totems. Skip if you hate skilling. Hit shops first: Steel Axe, Addy Axe (EH/Abundance), Staff of Air. Also get Forestry Kit.",
+      "items": [
+        {
+          "taskId": 4826
+        },
+        {
+          "taskId": 4829
+        },
+        {
+          "taskId": 1865
+        },
+        {
+          "taskId": 3824,
+          "note": "Fairy ring in Auburnvale to Savannah (AJP)."
+        },
+        {
+          "customItem": {
+            "id": "av2-05",
+            "label": "Complete Vale Totems Miniquest",
+            "icon": 1454
+          }
+        },
+        {
+          "taskId": 1783
+        },
+        {
+          "taskId": 1867
+        },
+        {
+          "customItem": {
+            "id": "av2-08",
+            "label": "Chop 50 Maple Logs",
+            "icon": 1519
+          }
+        },
+        {
+          "taskId": 1973
+        },
+        {
+          "taskId": 1801
+        },
+        {
+          "taskId": 5104,
+          "note": "Woodcut more as needed for fletching."
+        },
+        {
+          "taskId": 1802
+        },
+        {
+          "taskId": 5103
+        },
+        {
+          "taskId": 5939
+        },
+        {
+          "customItem": {
+            "id": "av2-15",
+            "label": "Fletch 50 Willow Longbow (u)",
+            "icon": 1519
+          }
+        },
+        {
+          "customItem": {
+            "id": "av2-16",
+            "label": "Fully Decorate an Oak Totem"
+          }
+        },
+        {
+          "customItem": {
+            "id": "av2-17",
+            "label": "Fully Decorate a Willow Totem"
+          }
+        },
+        {
+          "customItem": {
+            "id": "av2-18",
+            "label": "Fully Decorate a Maple Totem"
+          }
+        },
+        {
+          "customItem": {
+            "id": "av2-19",
+            "label": "Exchange an Ent Seed with an Ent"
+          }
+        },
+        {
+          "taskId": 3798
+        }
+      ]
+    },
+    {
+      "id": "sec-sunset-fishing",
+      "name": "Sunset Coast - Fishing (130 after)",
+      "items": [
+        {
+          "customItem": {
+            "id": "sf-01",
+            "label": "Catch 75 Trout in Auburnvale",
+            "icon": 1474,
+            "description": "Take Bird to Sunset Coast after."
+          }
+        },
+        {
+          "customItem": {
+            "id": "sf-02",
+            "label": "Catch 10 Cod",
+            "icon": 1474
+          }
+        },
+        {
+          "customItem": {
+            "id": "sf-03",
+            "label": "Catch 20 Mackerel",
+            "icon": 1474
+          }
+        },
+        {
+          "customItem": {
+            "id": "sf-04",
+            "label": "Catch 75 Lobsters",
+            "icon": 1474
+          }
+        },
+        {
+          "customItem": {
+            "id": "sf-05",
+            "label": "Catch 50 Tuna",
+            "icon": 1474
+          }
+        },
+        {
+          "customItem": {
+            "id": "sf-06",
+            "label": "Catch 100 Tuna",
+            "icon": 1474
+          }
+        },
+        {
+          "customItem": {
+            "id": "sf-07",
+            "label": "Catch 100 Swordfish",
+            "icon": 1474,
+            "description": "If full inventory, Bird back to Auburnvale to bank."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-savannah-mining",
+      "name": "Savannah / Mining (137 after)",
+      "items": [
+        {
+          "customItem": {
+            "id": "sm-01",
+            "label": "Defeat a Scorpion",
+            "icon": 1459
+          }
+        },
+        {
+          "customItem": {
+            "id": "sm-02",
+            "label": "Defeat a Scorpion with a Mithril Spear",
+            "icon": 1459
+          }
+        },
+        {
+          "taskId": 1797
+        },
+        {
+          "customItem": {
+            "id": "sm-04",
+            "label": "Mine some Coal from Stonecutter Outpost",
+            "icon": 1456
+          }
+        },
+        {
+          "customItem": {
+            "id": "sm-05",
+            "label": "Mine 10 Silver",
+            "icon": 1456,
+            "description": "Get 20 for later. Grab ~5 gold ore just in case."
+          }
+        },
+        {
+          "taskId": 3857
+        },
+        {
+          "taskId": 1980,
+          "note": "Can skip Mithril and go Cam Torum first for Rune Pick and more training (BG up big)."
+        }
+      ]
+    },
+    {
+      "id": "sec-cam-torum",
+      "name": "Cam Torum (143 after) - ideally Tier 3",
+      "description": "Getting here can be different (Evil Eye, Map, bank heist). Worst case just take bird lol.",
+      "items": [
+        {
+          "customItem": {
+            "id": "ct-01",
+            "label": "Trim your beard in Cam Torum"
+          }
+        },
+        {
+          "taskId": 1213,
+          "note": "Shop run: Rune Pickaxe, Herblore supplies, Natures/Laws from Rune store, Addy Dagger for Melee."
+        },
+        {
+          "taskId": 1798
+        },
+        {
+          "taskId": 3854
+        },
+        {
+          "customItem": {
+            "id": "ct-05",
+            "label": "Break down 10 Calcified Deposits"
+          }
+        },
+        {
+          "taskId": 3855,
+          "note": "Potentially grab Net?"
+        }
+      ]
+    },
+    {
+      "id": "sec-hunter",
+      "name": "Hunter Block (154 after)",
+      "description": "Not 100% sure where this fits.",
+      "items": [
+        {
+          "taskId": 1873
+        },
+        {
+          "customItem": {
+            "id": "hu-02",
+            "label": "Snare 5 Crimson",
+            "icon": 1511
+          }
+        },
+        {
+          "customItem": {
+            "id": "hu-03",
+            "label": "Snare 15 Tropical",
+            "icon": 1511
+          }
+        },
+        {
+          "customItem": {
+            "id": "hu-04",
+            "label": "Catch a Butterfly",
+            "icon": 1511
+          }
+        },
+        {
+          "taskId": 1872
+        },
+        {
+          "taskId": 4838
+        },
+        {
+          "customItem": {
+            "id": "hu-07",
+            "label": "Catch 200 Implings",
+            "icon": 1511
+          }
+        },
+        {
+          "customItem": {
+            "id": "hu-08",
+            "label": "Catch Jerboa",
+            "icon": 1511
+          }
+        },
+        {
+          "customItem": {
+            "id": "hu-09",
+            "label": "Enter Dark Cave",
+            "icon": 1460
+          }
+        },
+        {
+          "customItem": {
+            "id": "hu-10",
+            "label": "Catch Pyre Fox",
+            "icon": 1511,
+            "description": "Boo, don't kill foxes. Goal: grind 72 Hunter from Chins and whatever. Don't waste time on shitty low level rumours. Set up Block list at 72."
+          }
+        },
+        {
+          "taskId": 3820,
+          "note": "Lots of high-point stuff at 72 - worth doing rumours for Tecu/Moonlight Moth/Red Chins/Antelopes."
+        }
+      ]
+    },
+    {
+      "id": "sec-tier3-karamja",
+      "name": "Tier 3 + Karamja (166 after) - Agility Shortcuts unlocked",
+      "items": [
+        {
+          "customItem": {
+            "id": "k-01",
+            "label": "Fairy ring to CKR - Catch Karambwanji (~500)",
+            "icon": 1474,
+            "description": "Then Fairy ring to BLP (big lava place)."
+          }
+        },
+        {
+          "taskId": 2155
+        },
+        {
+          "taskId": 2179,
+          "note": "Other steps too, but get started here."
+        },
+        {
+          "taskId": 2183,
+          "note": "Shortcut to SW Tatli Rainforest after."
+        },
+        {
+          "customItem": {
+            "id": "k-05",
+            "label": "Equip an Orange (43 Agility)",
+            "description": "Shortcut to Shilo Village after."
+          }
+        },
+        {
+          "taskId": 4887
+        },
+        {
+          "taskId": 2150
+        },
+        {
+          "taskId": 2113
+        },
+        {
+          "taskId": 5096,
+          "note": "Get enough Gems for Trading Sticks."
+        },
+        {
+          "customItem": {
+            "id": "k-10",
+            "label": "Chop a Dense Jungle",
+            "icon": 1519
+          }
+        },
+        {
+          "taskId": 2184,
+          "note": "Mine Gems in advance."
+        },
+        {
+          "customItem": {
+            "id": "k-12",
+            "label": "Equip a Full Tai Bwo Wannai Villager Set",
+            "description": "Start Tai Bwo Wannai Trio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-brimhaven",
+      "name": "Brimhaven (175 after)",
+      "items": [
+        {
+          "taskId": 1776
+        },
+        {
+          "taskId": 2187
+        },
+        {
+          "taskId": 2143
+        },
+        {
+          "taskId": 2144,
+          "note": "Continue Tai Bwo Wannai Trio for Karambwans."
+        },
+        {
+          "taskId": 2191
+        },
+        {
+          "taskId": 2313
+        },
+        {
+          "taskId": 2178,
+          "note": "Fairy ring to DKP after."
+        },
+        {
+          "taskId": 4892
+        },
+        {
+          "customItem": {
+            "id": "br-09",
+            "label": "Equip any spear (Kp)",
+            "description": "Pestle on Karambwan, use on your spear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-tzhaar-store",
+      "name": "Tzhaar Store (187 after) - hopefully Tier 4 by now",
+      "description": "Sell Rune ore for tokkul to get Ores/items. Smith at Cam Torum or anywhere. Mine and Transmute to Coal if needed.",
+      "items": [
+        {
+          "taskId": 1840
+        },
+        {
+          "taskId": 1841
+        },
+        {
+          "taskId": 1842
+        },
+        {
+          "taskId": 1803
+        },
+        {
+          "taskId": 1845
+        },
+        {
+          "taskId": 5121
+        },
+        {
+          "taskId": 1826,
+          "note": "Get Cowhide from Zanaris."
+        },
+        {
+          "customItem": {
+            "id": "tz-08",
+            "label": "Craft 20 Silver Items",
+            "icon": 1471,
+            "description": "Best is Expeditious for Slayer later."
+          }
+        },
+        {
+          "taskId": 4831,
+          "note": "Make Amulet of Chemistry now. Hopefully you have a guam, ok if not."
+        },
+        {
+          "customItem": {
+            "id": "tz-10",
+            "label": "Craft a Sapphire Amulet",
+            "icon": 1469
+          }
+        },
+        {
+          "taskId": 1828
+        },
+        {
+          "taskId": 1827,
+          "note": "Can be done earlier if you want."
+        }
+      ]
+    },
+    {
+      "id": "sec-cooking",
+      "name": "Cooking (192 after)",
+      "description": "You should have infinite food. Just cook stuff or buy from Grocery Shop.",
+      "items": [
+        {
+          "taskId": 1789
+        },
+        {
+          "taskId": 5062
+        },
+        {
+          "customItem": {
+            "id": "co-03",
+            "label": "Butter a Potato",
+            "icon": 1488
+          }
+        },
+        {
+          "customItem": {
+            "id": "co-04",
+            "label": "Make a Meat Pizza",
+            "icon": 1488
+          }
+        },
+        {
+          "taskId": 1790,
+          "note": "Buy Jugs and Grapes lol."
+        }
+      ]
+    },
+    {
+      "id": "sec-construction",
+      "name": "Construction (202 after)",
+      "items": [
+        {
+          "taskId": 749
+        },
+        {
+          "taskId": 1850
+        },
+        {
+          "customItem": {
+            "id": "cn-03",
+            "label": "Redecorate your POH",
+            "icon": 1516
+          }
+        },
+        {
+          "taskId": 2145
+        },
+        {
+          "taskId": 1853
+        },
+        {
+          "customItem": {
+            "id": "cn-06",
+            "label": "Equip an Egg",
+            "description": "Scrambled at 38 con, 36 cooking, 35 smithing. You can skip it - minor combat but safespottable."
+          }
+        },
+        {
+          "taskId": 2146,
+          "note": "Shortcut Near Huey. Activate Statue of Ates at Huey."
+        },
+        {
+          "taskId": 5907
+        },
+        {
+          "customItem": {
+            "id": "cn-09",
+            "label": "Inspect a Green Flame"
+          }
+        },
+        {
+          "taskId": 1854,
+          "note": "Maple Longbow, Ruby Amulet, Steel Platelegs."
+        }
+      ]
+    },
+    {
+      "id": "sec-general-levels",
+      "name": "General Levels (210 after)",
+      "description": "Not accounting for any Random Events or Forestry. Should be well into Tier 4 and 1st region. Good luck gamers :)",
+      "items": [
+        {
+          "customItem": {
+            "id": "gl-01",
+            "label": "Achieve your first level 30"
+          }
+        },
+        {
+          "customItem": {
+            "id": "gl-02",
+            "label": "Achieve your first level 40"
+          }
+        },
+        {
+          "customItem": {
+            "id": "gl-03",
+            "label": "Achieve your first level 50"
+          }
+        },
+        {
+          "customItem": {
+            "id": "gl-04",
+            "label": "Achieve your first level 60"
+          }
+        },
+        {
+          "taskId": 2659
+        },
+        {
+          "taskId": 2660
+        },
+        {
+          "customItem": {
+            "id": "gl-07",
+            "label": "Reach Total level 666"
+          }
+        },
+        {
+          "taskId": 2662
+        }
+      ]
+    }
+  ]
+}
