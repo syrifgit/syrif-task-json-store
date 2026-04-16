@@ -1,16 +1,30 @@
 [
   {
-    "filename": "faux-starting-route",
-    "name": "Demo: Faux's Leagues 5 Route",
-    "author": "Faux",
-    "description": "~2,500+ points routed. Relics: Animal wrangler (pooner), Dodgy deals.",
+    "filename": "doubleshine-day1-v1",
+    "name": "Doubleshine Day 1 Guide v1.0",
+    "author": "Doubleshine",
+    "description": "Day 1 route. Barbarian -> Woodsman -> Map -> Transmute -> Soul Harvest. Accounts for Barbarian Gathering and Endless Harvest to clear difficult gathering tasks early.",
     "taskType": "LEAGUE_5"
   },
   {
-    "filename": "faux-starting-route",
-    "name": "Demo: Doubleshine's L6 Starting Route",
-    "author": "Doubleshine",
-    "description": "",
-    "taskType": "LEAGUE_5"
+    "filename": "faux-l6-v1",
+    "name": "Faux's Demonic Pact League Guide",
+    "author": "Faux",
+    "description": "3,300+ points, 181 tasks. Relics: Endless Harvest, Woodsman, Evil Eye, Butler's Bell, Larcenist, Culling Spree, Reload (Soul Harvest), Minion. Full video walkthrough: https://youtu.be/Job-3WdjVIs",
+    "taskType": "LEAGUE_6"
+  },
+  {
+    "filename": "felkrane-l6-v4",
+    "name": "Felkrane League 6 Route V4",
+    "author": "Felkrane",
+    "description": "Day 1 route. Works for any relic, pact, and region choice. Abundance aims for 10 less than suggested non-combat skill targets. 270 task completions across 476 steps.",
+    "taskType": "LEAGUE_6"
+  },
+  {
+    "filename": "laef-l6-v1",
+    "name": "LAEF Starting Guide",
+    "author": "LAEF",
+    "description": "Starting guide by LAEF. Covers early hunter, rumours, wealthy citizens, and core progression.",
+    "taskType": "LEAGUE_6"
   }
 ]

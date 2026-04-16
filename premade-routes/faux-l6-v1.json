@@ -1,0 +1,1389 @@
+{
+  "id": "faux-l6-v1",
+  "name": "Faux's Demonic Pact League Guide",
+  "taskType": "LEAGUE_6",
+  "author": "Faux",
+  "description": "3,300+ points, 181 tasks. Faux's relics: Endless Harvest, Woodsman, Evil Eye, Butler's Bell, Larcenist, Culling Spree, Reload (Soul Harvest), Minion. Guide leans on these relics, adjust if running different tier 1/2s. Item buy quantities are intentional - don't buy more than mentioned because coins in inventory matter for some early tasks. Full video walkthrough: https://youtu.be/Job-3WdjVIs",
+  "sections": [
+    {
+      "id": "civitas-start-tutorial-bazaar",
+      "name": "Civitas Start - Tutorial & Bazaar",
+      "items": [
+        {
+          "taskId": 14662
+        },
+        {
+          "taskId": 14445
+        },
+        {
+          "customItem": {
+            "id": "civitas-start-tutori-001",
+            "label": "Claim first relic (I'm going Endless Harvest) *turn off auto bank for now*"
+          }
+        },
+        {
+          "taskId": 14668,
+          "note": "Turn off Run and back on"
+        },
+        {
+          "taskId": 15108,
+          "note": "Pickpocket a Citizen (to level 5 Thieving)"
+        },
+        {
+          "taskId": 14740
+        },
+        {
+          "taskId": 14733
+        },
+        {
+          "taskId": 14538,
+          "note": "Go inside house to the east, fill bucket at water pump"
+        },
+        {
+          "taskId": 14493,
+          "note": "Run north, pet Renu"
+        },
+        {
+          "taskId": 14519,
+          "note": "Bow emote near Renu"
+        },
+        {
+          "taskId": 14514,
+          "note": "Travel with bird to anywhere"
+        },
+        {
+          "taskId": 14757,
+          "note": "Home teleport (might put you in Yama's lair, leave to Varlamore again)"
+        },
+        {
+          "taskId": 14441,
+          "note": "Run west, attack dummy to lv 8 attack"
+        },
+        {
+          "taskId": 14528,
+          "note": "Run to Bazaar (market), cry near a child"
+        },
+        {
+          "customItem": {
+            "id": "civitas-start-tutori-002",
+            "label": "Thieve full inventory of Cakes (need 14+)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-start-tutori-003",
+            "label": "Run northwest to General store"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-start-tutori-004",
+            "label": "Sell 1 CAKE AT A TIME for maximum GP (not 5, 10, or 50), need 260+ gp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "civitas-crafting-glass",
+      "name": "Civitas - Crafting & Glass",
+      "items": [
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-005",
+            "label": "Buy 1 knife, 1 chisel, 1 spade, 2 bird snares"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-006",
+            "label": "Run south to clothing shop, buy PINK SKIRT, Brown Apron, Red Cape (red cape is 2gp, others are 32gp)"
+          }
+        },
+        {
+          "taskId": 13906,
+          "note": "Run straight south of general store to southern Varlamore wall. Kill rat w/ bow"
+        },
+        {
+          "taskId": 14504,
+          "note": "Run east to altar, Salute next to Statue of Quoatlos (southern)"
+        },
+        {
+          "taskId": 13530,
+          "note": "Run next to Altar, activate Thick skin"
+        },
+        {
+          "taskId": 14495,
+          "note": "Run east, pet Xolo outside near Bird Bath"
+        },
+        {
+          "taskId": 14531,
+          "note": "Drink from Bird Bath"
+        },
+        {
+          "taskId": 14780,
+          "note": "Chop (or punch) 2 trees (Barb should get 15+ wc here)"
+        },
+        {
+          "taskId": 14755,
+          "note": "Burn 1 log, fletch 1 log into arrow shafts"
+        },
+        {
+          "taskId": 14869
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-007",
+            "label": "Run to east bank, deposit all, withdraw coins,"
+          }
+        },
+        {
+          "taskId": 14511,
+          "note": "Enter Colosseum, run north and talk to gladiator"
+        },
+        {
+          "taskId": 14666,
+          "note": "Exit, run north, talk to Port master (Sailing)"
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-008",
+            "label": "Run west and buy 10 buckets of sand, 10 soda ash, glassblowing pipe"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-009",
+            "label": "Run south to furnace, make 10 molten glass, deposit at bank"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-010",
+            "label": "Run back to charter, buy 10 more buckets of sand, 10 soda ash"
+          }
+        },
+        {
+          "taskId": 14729,
+          "note": "Run to furnace, make 10 molten glass again, blow all glass into oil lanterns for 20 Crafting"
+        },
+        {
+          "taskId": 14730
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-011",
+            "label": "Run to bank, deposit oil lanterns, withdraw Bucket of water (empty, keep bucket), air and mind runes, dramen staff -(equ"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-012",
+            "label": "Run west to crafting shop, buy shears"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-crafting-gla-013",
+            "label": "Run south of Varlamore from the bank"
+          }
+        },
+        {
+          "taskId": 14665,
+          "note": "Pick 6 cabbage (drop)"
+        }
+      ]
+    },
+    {
+      "id": "south-civitas-farms-animals",
+      "name": "South Civitas - Farms & Animals",
+      "items": [
+        {
+          "taskId": 13887,
+          "note": "Kill 1 chicken, pick up bone"
+        },
+        {
+          "taskId": 14509,
+          "note": "Run just south of the cabbage field and sit emote by the cabbage (near dogs)"
+        },
+        {
+          "taskId": 14503,
+          "note": "Run west, pick sweetcorn (drop)"
+        },
+        {
+          "taskId": 14658,
+          "note": "Give Molossus bones (north/northwest of sweetcorn)"
+        },
+        {
+          "taskId": 14454,
+          "note": "Run west, pick and eat 1 onion"
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--014",
+            "label": "Run west, pick 6 wheat (keep 1) (drop 5)"
+          }
+        },
+        {
+          "taskId": 14660,
+          "note": "Make flour in the windmill to the west (can drop flour)"
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--015",
+            "label": "Run northwest to Ortus farm, pick 6 potatos (drop)"
+          }
+        },
+        {
+          "taskId": 15114,
+          "note": "Buy rake from Harminia (farming patch), rake flower patch"
+        },
+        {
+          "taskId": 14489,
+          "note": "Run north, milk Dairy Buffalo"
+        },
+        {
+          "taskId": 14507,
+          "note": "Run west, shear 1 alpaca"
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--016",
+            "label": "Run southeast to fairy ring"
+          }
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--017",
+            "label": "Fairy ring to Zanaris"
+          }
+        },
+        {
+          "taskId": 13582,
+          "note": "Kill cow, pick up cowhide, bury bones"
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--018",
+            "label": "Claim slayer task from Chaeldar"
+          }
+        },
+        {
+          "taskId": 14513,
+          "note": "Fairy ring to Aldarin (CKQ)"
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--019",
+            "label": "Run south, speak to Vineyard Foreman (near big wine vats), ask if he needs help"
+          }
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--020",
+            "label": "Search the grape vineyards for 4 shimmering grape vines (Vineyard helper Runelite plugin if you're struggling)"
+          }
+        },
+        {
+          "taskId": 14623,
+          "note": "Speak to Vineyard Foreman to turn in, destroy grape barel"
+        },
+        {
+          "customItem": {
+            "id": "south-civitas-farms--021",
+            "label": "Run east to bank, deposit all"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zanaris-aldarin-vineyard-craft",
+      "name": "Zanaris & Aldarin - Vineyard & Crafting",
+      "items": [
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-022",
+            "label": "Withdraw coins (need 25+ GP), chisel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-023",
+            "label": "Buy chisel in General store to the north if you forgot to buy earlier"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-024",
+            "label": "Run to crafting shop (northeast of bank)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-025",
+            "label": "Money making: Buy uncut sapphires, cut, then sell (1 at a time is 7x GP, 5 at a time is ~5x GP)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-026",
+            "label": "Stay as long as you want, upgrade to Emeralds and Rubies when possible. I plan to stay for ~50k gp, and return -later at"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-027",
+            "label": "When done, buy 3 Sapphires, emeralds, rubies for later. Run east to charters"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-028",
+            "label": "Buy 5 raw rabbit, tyras helm, bucket, tinderbox."
+          }
+        },
+        {
+          "taskId": 14453,
+          "note": "Cook rabbit at range southwest, eat once you get a cooked. Buy more if you failed"
+        },
+        {
+          "taskId": 13629,
+          "note": "Kill a seagull"
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-029",
+            "label": "Travel at Antonia to Sunset Coast (Don't charter)"
+          }
+        },
+        {
+          "taskId": 14932,
+          "note": "Buy torch in General store, Light torch and drop torch/tinderbox"
+        },
+        {
+          "taskId": 14535,
+          "note": "Fill bucket at sand pit (north), drop sand"
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-030",
+            "label": "Run to Fishing Shop (Southeast, look at map)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-031",
+            "label": "Buy 1,000 feathers, big net (we'll buy more later)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "zanaris-aldarin-vine-032",
+            "label": "Charter to Civitas Illa Fortis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sunset-coast-civitas-part-2",
+      "name": "Sunset Coast & Civitas Part 2",
+      "items": [
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-033",
+            "label": "Buy 15 pineapples from charter, bank them"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-034",
+            "label": "Run south to pond (\"Park\" on map)"
+          }
+        },
+        {
+          "taskId": 15373,
+          "note": "Fish until casket, old boot, and house key (Can skip house key and come back later, 1/10 might take a while)"
+        },
+        {
+          "taskId": 15095
+        },
+        {
+          "taskId": 15104
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-035",
+            "label": "Run northwest to bar"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-036",
+            "label": "Buy 1 cup of tea, 1 Moon-lite, 1 stew, 1 jug of wine."
+          }
+        },
+        {
+          "taskId": 14533,
+          "note": "Drink Moon-lite, jug of wine"
+        },
+        {
+          "taskId": 14820,
+          "note": "Run southwest, buy POH"
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-037",
+            "label": "Run southeast to mace shop, buy steel mace"
+          }
+        },
+        {
+          "taskId": 15360,
+          "note": "Run to Civitas Bazaar, thieve from citizen 10 times without failing"
+        },
+        {
+          "taskId": 15303,
+          "note": "Buy 1 silk from silk trader, sell it back"
+        },
+        {
+          "taskId": 14487,
+          "note": "Run west near west bank. Give Oli a stew"
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-038",
+            "label": "Run to Quetzal (Renu), bird to Aubernvale (top left)"
+          }
+        },
+        {
+          "taskId": 14530,
+          "note": "Drink cup of tea"
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-039",
+            "label": "Run south to bank, deposit steel mace, big net, tyras helm, bucket"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-040",
+            "label": "Withdraw axe, knife, cowhide, wool"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-041",
+            "label": "Run south to staff shop, buy Air and fire staff (equip)"
+          }
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-042",
+            "label": "Run west to Axe shop, buy Steel, Mith, and Adamant axe"
+          }
+        },
+        {
+          "taskId": 14782,
+          "note": "Chop dead tree near river *EH toggle autobank on* (stay until 45 logs banked if endless harvest)"
+        },
+        {
+          "customItem": {
+            "id": "sunset-coast-civitas-043",
+            "label": "withdraw log from bank if EH"
+          }
+        },
+        {
+          "taskId": 15365,
+          "note": "Make 1 plank at sawmill"
+        }
+      ]
+    },
+    {
+      "id": "auburnvale-woodcutting-forestr",
+      "name": "Auburnvale - Woodcutting & Forestry",
+      "items": [
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-044",
+            "label": "Run southwest, tan cowhide into regular leather"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-045",
+            "label": "Buy needle and thread in gen store"
+          }
+        },
+        {
+          "taskId": 14810
+        },
+        {
+          "taskId": 14518,
+          "note": "Admire beautiful logs just outside of gen store (east)"
+        },
+        {
+          "taskId": 14510,
+          "note": "Step oin Ent trail (near maple trees to the south, wait for Ent to walk by)"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-046",
+            "label": "Run south to nemus retreat"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-047",
+            "label": "Claim Forestry kit from Forestry shop (southwest of nemus retreat near water)"
+          }
+        },
+        {
+          "taskId": 14257,
+          "note": "Equip forestry kit to enable Forestry events while WCing (lot of forestry tasks)"
+        },
+        {
+          "taskId": 14664
+        },
+        {
+          "taskId": 15353,
+          "note": "Spin ball of wool, 1 bowstring"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-048",
+            "label": "Endless Harvesters/woodsman can do the following, others can skip for now if you want:"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-049",
+            "label": "Fletch headless arrows until 20 fletching."
+          }
+        },
+        {
+          "taskId": 14756,
+          "note": "Chop oak to the south until 60 oak logs banked. Complete Burn 1 oak log, Fletch 1 oak shortbow, fletch 25 oak -stocks, decorate oak totem (5 oaks)"
+        },
+        {
+          "taskId": 14868
+        },
+        {
+          "taskId": 14859
+        },
+        {
+          "taskId": 15375
+        },
+        {
+          "taskId": 14777,
+          "note": "Chop willows until 100 burn task, then toggle Woodsman burn off and bank 56 willows: 1 willow shortbow, 50 willow longbows fletched, decorate willow totem (5 willows)"
+        },
+        {
+          "taskId": 14750
+        },
+        {
+          "taskId": 14867
+        },
+        {
+          "taskId": 14860
+        },
+        {
+          "taskId": 15139
+        },
+        {
+          "taskId": 14854,
+          "note": "Finish 1000 arrow shafts with extra oaks or willows"
+        },
+        {
+          "taskId": 14817,
+          "note": "Chop 50 Maple logs (burn 25, bank 25)"
+        },
+        {
+          "taskId": 14752
+        },
+        {
+          "taskId": 14858
+        },
+        {
+          "taskId": 14671,
+          "note": "Complete vale totem miniquest, bring 5 oak logs, 5 willow logs, 5 maple logs"
+        },
+        {
+          "taskId": 15374
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-050",
+            "label": "Deposit all, withdraw coins, axe, 2 bird snares, green cape, steel mace"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-051",
+            "label": "Run south to Rowboat, take boat to Tal Teklan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-052",
+            "label": "Run north to rune shop, buy 5 of each elemental rune pack, 5 mind rune pacts 5 cosmics, 75 natures 1 chaos pack, 1 death"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-053",
+            "label": "Low alch anything for mage exp"
+          }
+        },
+        {
+          "taskId": 14452,
+          "note": "Run west, buy purple dye. Dye cape purple"
+        },
+        {
+          "taskId": 14529,
+          "note": "Run west, dance near Bards on the dock"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-woodcutti-054",
+            "label": "Run southeast to ranged shop, buy 10 iron arrows, shortbow"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tal-teklan-magic-hunting",
+      "name": "Tal Teklan - Magic, Hunting",
+      "items": [
+        {
+          "customItem": {
+            "id": "tal-teklan-magic-hun-055",
+            "label": "Run to bank, deposit 5 nature runes"
+          }
+        },
+        {
+          "taskId": 13616,
+          "note": "Run east out of Tal teklan, kill frog near Doom dungeon shortcut (shoot 6+ iron arrows)"
+        },
+        {
+          "taskId": 13904
+        },
+        {
+          "customItem": {
+            "id": "tal-teklan-magic-hun-056",
+            "label": "Cut any regular tree"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tal-teklan-magic-hun-057",
+            "label": "Run north across bridge, then east to Crimson Swifts"
+          }
+        },
+        {
+          "taskId": 15349,
+          "note": "Catch 8 Crimson swifts (16 if not woodsman)"
+        },
+        {
+          "customItem": {
+            "id": "tal-teklan-magic-hun-058",
+            "label": "Run west to bridge, cross to the south then run southwest to Tropical Wagtails"
+          }
+        },
+        {
+          "taskId": 15336,
+          "note": "Catch 15 Tropical wagtails"
+        },
+        {
+          "taskId": 14512,
+          "note": "Take rowboat near Tal Teklan to Kastori"
+        },
+        {
+          "customItem": {
+            "id": "tal-teklan-magic-hun-059",
+            "label": "Run southwest to fishing shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tal-teklan-magic-hun-060",
+            "label": "Buy small net, fishing rod, fly fishing rod, harpoon, lobster pot, 50 bait, fill inv with raw sardines"
+          }
+        },
+        {
+          "taskId": 15356,
+          "note": "Cook sardines at range to the west (can buy more sardines if you didn't successfully cook 5)"
+        },
+        {
+          "taskId": 14772,
+          "note": "Run southwest, fish shrimp until 10+ fishing (EH toggle off auto bank until several raw shrimp in inv, then back on, catch at least 1 if already lv 10)"
+        },
+        {
+          "taskId": 14771,
+          "note": "Bait fish for Herring until 15 (catch at least 1 if already lv 15)"
+        },
+        {
+          "taskId": 14774,
+          "note": "Net fish until Anchovy (stay until 16 fishing)"
+        },
+        {
+          "taskId": 14797,
+          "note": "Run northeast, cook shrimp"
+        }
+      ]
+    },
+    {
+      "id": "kastori-fishing-skilling",
+      "name": "Kastori - Fishing & Skilling",
+      "items": [
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-061",
+            "label": "Run northeast to Dungeon icon, climb ladder"
+          }
+        },
+        {
+          "taskId": 13909,
+          "note": "Kill imp with earth spell, pick up ashes (save them)"
+        },
+        {
+          "taskId": 13634
+        },
+        {
+          "taskId": 14492,
+          "note": "Run north to Statue of Ates. Pet Caique (Bird on a rock)"
+        },
+        {
+          "taskId": 6807,
+          "note": "Run north, observe the gemstone crab burrow. Get 20 attack on crab (steel mace), then train magic on defensive -until burrow (get at least 5 defence)"
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-062",
+            "label": "Take closest rowboat to Gloomthorn"
+          }
+        },
+        {
+          "taskId": 13633,
+          "note": "Run east to Mons Gratia, kill icefiend (fire spells)"
+        },
+        {
+          "taskId": 13901,
+          "note": "Run southeast to Quetzacalli gorge, kill 5 rabbits with mace, bury bones"
+        },
+        {
+          "taskId": 14506,
+          "note": "Home teleport to Yama's lair, bury ashes"
+        },
+        {
+          "taskId": 14617,
+          "note": "Hop 666 hoppy stones"
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-063",
+            "label": "Return to Civitas illa Fortis"
+          }
+        },
+        {
+          "taskId": 14239,
+          "note": "Quetzal to Aldarin, run North to bank. Equip tyras helm"
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-064",
+            "label": "Deposit all, withdaw coins, chisel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-065",
+            "label": "Run north to POH portal, enter build mode"
+          }
+        },
+        {
+          "taskId": 14747,
+          "note": "Build cheapest room"
+        },
+        {
+          "taskId": 14818,
+          "note": "Cut rubies at Gem shop. Goal: 70 crafting (Can leave at 60, but extra gp buys you runes in a few steps) (~400k gp profit)"
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-066",
+            "label": "Take boat to Sunset coast"
+          }
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-067",
+            "label": "Run north to helmet shop, buy bronze, and addy full helms."
+          }
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-068",
+            "label": "Run southeast to fishing shop"
+          }
+        },
+        {
+          "taskId": 14796,
+          "note": "Buy raw fish to complete cooking tasks: 50 tuna, 100 swordfish"
+        },
+        {
+          "taskId": 14794
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-069",
+            "label": "Run north to Cam Torum"
+          }
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-070",
+            "label": "Buy 1 vial of water pack, pestle and mortar, 1 eye of newt pack at herb shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-071",
+            "label": "Buy Steel, mith, adamant, rune pickaxe from mining shop (buy steel/rune if barbarian, probably need to equip for task - "
+          }
+        },
+        {
+          "taskId": 14659,
+          "note": "Get haircut in building to the east. There's no Pink Skirt type thing hidden in this guide, instead, model yourself after Faux (Samurai, Maroon color haircut)"
+        },
+        {
+          "taskId": 14871,
+          "note": "Trim beard (clean shaven)"
+        },
+        {
+          "customItem": {
+            "id": "kastori-fishing-skil-072",
+            "label": "Run to rune shop, buy 50 law runes, 500 natures, 100 death runes (more if you made extra money from crafting), extra ele"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aldarin-poh-sunset-coast-2",
+      "name": "Aldarin POH & Sunset Coast 2",
+      "items": [
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-073",
+            "label": "Low alch runes or junk while completing tasks for mage xp"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-074",
+            "label": "Run east to bank, deposit herblore supplies (keep an offensive mage spells, keep bronze, steel, mith, addy, rune pickaxe"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-075",
+            "label": "Withdraw big net"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-076",
+            "label": "Run to pub, buy 5 Jug of wine"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-077",
+            "label": "League menu tele to Varlamore"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-078",
+            "label": "Run west to blacksmith, buy addy platebody/legs, bronze platebody/legs, mithril spear, steel platebody, iron dagger"
+          }
+        },
+        {
+          "taskId": 14216,
+          "note": "Equip steel platebody, full bronze, iron dagger, mith spear."
+        },
+        {
+          "taskId": 14249
+        },
+        {
+          "taskId": 14226
+        },
+        {
+          "taskId": 14256
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-079",
+            "label": "Low alch steel platebody"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-poh-sunset-c-080",
+            "label": "Run south to bank, deposit addy, bronze, steel platebody, iron dagger. Withdraw 15 pineapples, bucket, chaos runes -(Win"
+          }
+        },
+        {
+          "taskId": 13627,
+          "note": "Run northwest to nearby dungeon icon, go downstairs and kill Guard"
+        }
+      ]
+    },
+    {
+      "id": "cam-torum-mining-buying",
+      "name": "Cam Torum - Mining & Buying",
+      "items": [
+        {
+          "customItem": {
+            "id": "cam-torum-mining-buy-081",
+            "label": "Go upstairs, run to western Civitas wall, then north to other dungeon icon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-mining-buy-082",
+            "label": "Go down ladder, run northwest, up ladder"
+          }
+        },
+        {
+          "taskId": 13631,
+          "note": "Kill thief"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-mining-buy-083",
+            "label": "Run south, milk buffalo"
+          }
+        },
+        {
+          "taskId": 13625,
+          "note": "Run south, kill buffalo"
+        },
+        {
+          "taskId": 14443,
+          "note": "Go into house east of allotments, churn butter"
+        },
+        {
+          "taskId": 14442,
+          "note": "Pick up potato to the southwest, bake in previous house, add butter"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-mining-buy-084",
+            "label": "Put 15 pineapples in compost bin, close lid"
+          }
+        },
+        {
+          "taskId": 15110,
+          "note": "Pickpocket farmer until 3 potato seeds"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-mining-buy-085",
+            "label": "Buy rake from Harminia"
+          }
+        },
+        {
+          "taskId": 15111,
+          "note": "rake allotment patch, plant potatoes, buy 2 compost from farmer, protect potato patch"
+        },
+        {
+          "taskId": 15112
+        },
+        {
+          "taskId": 13665,
+          "note": "Run west, safespot dire wolf over plants"
+        },
+        {
+          "taskId": 13908,
+          "note": "Run southwest, kill scorpion with mith spear"
+        },
+        {
+          "taskId": 14942,
+          "note": "Mine 6+ tin ore, 1+ copper ore (stay until 15 mining)"
+        },
+        {
+          "taskId": 13666,
+          "note": "Run southeast to Jaguars (east of Sunset coast), defeat without taking damage"
+        }
+      ]
+    },
+    {
+      "id": "civitas-combat-smithing",
+      "name": "Civitas - Combat & Smithing",
+      "items": [
+        {
+          "taskId": 13888,
+          "note": "Run southeast, kill a hill giant (Demonic pact point)"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-086",
+            "label": "Run far east to Stonecutter outpost"
+          }
+        },
+        {
+          "taskId": 14945,
+          "note": "Mine 1 clay, 50 iron, 20 silver, 2 coal, 3 gold, 50 mithril ore. Mine extra iron to get to level 55 for mithril"
+        },
+        {
+          "taskId": 14941
+        },
+        {
+          "taskId": 14946
+        },
+        {
+          "taskId": 15144
+        },
+        {
+          "taskId": 14763,
+          "note": "Run east to coast, big net fish for 20 Mackerel, 10 Cod"
+        },
+        {
+          "taskId": 14759
+        },
+        {
+          "taskId": 13667,
+          "note": "Run northwest to Oryx (northwest of hunter icon). Kill with melee (melee probably only needs to be killing blow, -try maging until last hit to speed it up)"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-087",
+            "label": "Run north to Civitas crafting shop, buy tiara mould, ring mould, amulet mould."
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-088",
+            "label": "Go upstairs, check for soft clay (1 min respawn on table). Take if there, otherwise can take bucket of water and withdra"
+          }
+        },
+        {
+          "taskId": 15245,
+          "note": "Go downstairs, make anything on potters wheel, then fire at pottery oven"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-089",
+            "label": "Withdraw 150 arrow shafts, 150 feathers. make 150 headless arrows (unless you made earlier)"
+          }
+        },
+        {
+          "taskId": 15312,
+          "note": "Make at the furnace to the north: 1 Bronze bar, 15 Iron bars"
+        },
+        {
+          "taskId": 15315
+        },
+        {
+          "taskId": 15322,
+          "note": "Run northwest to anvil, smith 150 iron arrowtips"
+        },
+        {
+          "taskId": 14856,
+          "note": "Run back to furnace, make 150 iron arrows on the way"
+        },
+        {
+          "taskId": 14800,
+          "note": "Smelt 20 silver bars, make 20 silver tiaras"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-090",
+            "label": "Deposit all, withdraw coins, dramen staff, jugs of wine. Buy extra wine at bar for thieving training"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-091",
+            "label": "Pickpocket Farmer south of varlamore to 36 thieving"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-092",
+            "label": "Run southwest to fairy ring, tele to Zanaris"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-093",
+            "label": "Buy Slayer staff (for Death's coffers task), anti dragon shield. Wear shield."
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-094",
+            "label": "Enter Puro Puro in wheat field (skip if you didn't get 17+ hunter earlier, come back whenever you feel like, it's not a "
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-095",
+            "label": "Claim butterfly net from Elnock Inquisitor (can drop jugs of wine)"
+          }
+        },
+        {
+          "taskId": 14284,
+          "note": "Catch 50 implings in puro puro (spawn camp 1 baby or young impling spawn)"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-096",
+            "label": "Teleport to Aldarin (CKQ)"
+          }
+        },
+        {
+          "taskId": 14769,
+          "note": "Run to Ruby harvests to the west, catch 1"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-097",
+            "label": "Go upstairs in house northeast of ruby harvests"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-098",
+            "label": "After 40 thieving/2 gold bars, league menu tele to Varlamore"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-099",
+            "label": "Run southeast to bank, withdraw amulet mould, ring mould, cut sapphire, cut emerald."
+          }
+        },
+        {
+          "taskId": 14806,
+          "note": "Make Sapphire amulet, emerald ring at furnace"
+        },
+        {
+          "taskId": 14807
+        },
+        {
+          "taskId": 15106,
+          "note": "Pickpocket Guards until 28 coin pouches (don't open until you get all)"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-100",
+            "label": "Open 28 coin pouches at once"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-101",
+            "label": "Run to southern varlamore gate"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-102",
+            "label": "Pickpocket master farmer south of Varlamore"
+          }
+        },
+        {
+          "taskId": 13910,
+          "note": "Run east, defeat 3 chickens in 6 seconds (melee). Don't miss ticks. You can mage the 3rd for a better chance at a high hit if you're low str. You can cheese this by getting several to low hp and running away, then engaging when all 3 are prepped."
+        },
+        {
+          "taskId": 13585,
+          "note": "Run to bank, withdraw death rune, cast earth blast if 53 magic"
+        },
+        {
+          "taskId": 15243,
+          "note": "Cast Civitas tele if 54 magic"
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-103",
+            "label": "Unlock Karamja if you haven't already"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-combat-smith-104",
+            "label": "Open league menu, teleport to Karamja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "puro-puro-aldarin-lockpicking",
+      "name": "Puro Puro & Aldarin Lockpicking",
+      "items": [
+        {
+          "taskId": 14336,
+          "note": "Run to brimhaven agil arena. Complete 10 tickets"
+        },
+        {
+          "taskId": 14343,
+          "note": "Leave arena, buy snapdragon from Jackie"
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-105",
+            "label": "Run to Karamja volcano, go to Tzhaar area"
+          }
+        },
+        {
+          "taskId": 13739,
+          "note": "Safespot any Tzhaar (water spells)"
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-106",
+            "label": "Go upstairs, run to musa point"
+          }
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-107",
+            "label": "Pick 10 bananas"
+          }
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-108",
+            "label": "Ask luthas for a job"
+          }
+        },
+        {
+          "taskId": 14605,
+          "note": "Fill crate with bananas"
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-109",
+            "label": "League menu tele to Karamja or charter back to brimhaven"
+          }
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-110",
+            "label": "Take cart to shilo"
+          }
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-111",
+            "label": "Run north across bridge, go upstairs to the east"
+          }
+        },
+        {
+          "taskId": 14574,
+          "note": "Pay barkeep to sleep in Paramaya inn (may need to go upstairs to trigger task)"
+        },
+        {
+          "taskId": 15141,
+          "note": "Take shortcut across river"
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-112",
+            "label": "Withdraw fly fishing rod, feathers"
+          }
+        },
+        {
+          "taskId": 14767,
+          "note": "Fish 75 trout, 1+ salmon"
+        },
+        {
+          "taskId": 15194
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-113",
+            "label": "Withdraw food, axe, small net, coins, slayer staff"
+          }
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-114",
+            "label": "Take cart to brimhaven"
+          }
+        },
+        {
+          "taskId": 13637,
+          "note": "Kill snake near Fruit tree patch"
+        },
+        {
+          "customItem": {
+            "id": "puro-puro-aldarin-lo-115",
+            "label": "Run south to brimhaven dungeon"
+          }
+        },
+        {
+          "taskId": 14599,
+          "note": "Enter brimhaven dungeon"
+        }
+      ]
+    },
+    {
+      "id": "karamja-brimhaven-shilo-tai-bw",
+      "name": "Karamja - Brimhaven, Shilo, Tai Bwo",
+      "items": [
+        {
+          "taskId": 13878,
+          "note": "Kill black demon in Brimhaven dungeon (safespot)"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-sh-116",
+            "label": "Karamja tele on league menu"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-sh-117",
+            "label": "Run south to Tai bwo wannai"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-sh-118",
+            "label": "Buy machete from General store"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-sh-119",
+            "label": "Speak to Murcaily to begin tai bwo wannai cleanup (near hardwood grove)"
+          }
+        },
+        {
+          "taskId": 15378,
+          "note": "Cut dense jungle until fully depleted"
+        },
+        {
+          "taskId": 15190,
+          "note": "Run south, catch a karambwanji"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-sh-120",
+            "label": "Teleport to Varlamore with the league menu"
+          }
+        },
+        {
+          "taskId": 13614,
+          "note": "Run west to death's office, sacrifice Slayer staff to death"
+        },
+        {
+          "taskId": 14845,
+          "note": "Buy buckets at general store, fill up supercompost at farming patch to the west"
+        }
+      ]
+    }
+  ]
+}

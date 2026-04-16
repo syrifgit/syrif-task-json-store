@@ -3,6 +3,7 @@
     "name": "Combat Achievements",
     "description": "A set of combat-based tasks and challenges intended to test the player's prowess in combat related content.",
     "taskJsonName": "COMBAT",
+    "taskSourceType": "STRUCT",
     "isEnabled": true,
     "filters": [
       {
@@ -77,26 +78,6 @@
       "tier": 3967
     },
     "taskVarps": [
-      3116,
-      3117,
-      3118,
-      3119,
-      3120,
-      3121,
-      3122,
-      3123,
-      3124,
-      3125,
-      3126,
-      3127,
-      3128,
-      3387,
-      3718,
-      3773,
-      3774,
-      4204,
-      4496,
-      4721
     ],
     "tierSpriteIdMap": {
       "1": 3399,
@@ -144,13 +125,13 @@
     "taskCompletionCountTiers": null
   },
   {
-    "name": "League V: Raging Echoes",
-    "taskJsonName": "LEAGUE_5",
+    "name": "Leagues VI: Demonic Pacts",
+    "description": "Demonic Pacts League tasks loaded from cache DB table 118. Wiki data-taskid = enum 5950 index, which is also the varbit index used for completion. Real dbRowId resolved via enum 5950 so client.getDBTableField reads work.",
+    "taskJsonName": "LEAGUE_6",
+    "taskSourceType": "DBROW",
+    "isEnabled": true,
+    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across ~50 varps in the VarPlayerID.LEAGUE_TASK_0..63 block (IDs TBC). Populate taskVarps with the 64 consecutive IDs once known; plugin's bounds check means extra empty slots are harmless. Filters disabled until plugin's ParamButtonFilter empty-config bug is fixed (see plugin-side fix: empty config should pass-through, not hide).",
     "filters": [
-      {
-        "configKey": "skill",
-        "valueType": "GLOBAL"
-      },
       {
         "configKey": "leagueTier",
         "valueType": "GLOBAL",
@@ -187,92 +168,20 @@
         "valueType": "GLOBAL"
       }
     ],
-    "intParamMap": {
-      "id": 873,
-      "tier": 2044,
-      "skill": 1018,
-      "area": 1017,
-      "category": 1016
-    },
     "stringParamMap": {
-      "name": 874,
-      "description": 875
+      "name": 0,
+      "description": 1
+    },
+    "intParamMap": {
+      "tier": 32,
+      "league_task_marker": 34,
+      "category": 35,
+      "area": 36
     },
     "intEnumMap": {
-      "tierSprites": 2674,
       "tierPoints": 2671
     },
-    "stringEnumMap": {
-      "tier": 2676,
-      "category": 3413,
-      "area": 3412,
-      "skill": 4105
-    },
-    "paramMap": {},
-    "taskVarps": [
-      2616,
-      2617,
-      2618,
-      2619,
-      2620,
-      2621,
-      2622,
-      2623,
-      2624,
-      2625,
-      2626,
-      2627,
-      2628,
-      2629,
-      2630,
-      2631,
-      2808,
-      2809,
-      2810,
-      2811,
-      2812,
-      2813,
-      2814,
-      2815,
-      2816,
-      2817,
-      2818,
-      2819,
-      2820,
-      2821,
-      2822,
-      2823,
-      2824,
-      2825,
-      2826,
-      2827,
-      2828,
-      2829,
-      2830,
-      2831,
-      2832,
-      2833,
-      2834,
-      2835,
-      3339,
-      3340,
-      3341,
-      3342,
-      4036,
-      4037,
-      4038,
-      4039,
-      4040,
-      4041,
-      4042,
-      4043,
-      4044,
-      4045,
-      4046,
-      4047,
-      4048,
-      4049
-    ],
+    "stringEnumMap": {},
     "tierSpriteIdMap": {
       "1": 2316,
       "2": 2318,
@@ -280,18 +189,16 @@
       "4": 2320,
       "5": 3739
     },
-    "otherVarps": [],
-    "varbits": [
-      10049,
-      10050,
-      10051,
-      10052,
-      10053,
-      11696,
-      17301,
-      17302
+    "taskVarps": [
+      2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627, 2628, 2629, 2630, 2631,
+      2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823,
+      2824, 2825, 2826, 2827, 2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835,
+      3339, 3340, 3341, 3342,
+      4036, 4037
     ],
-    "taskCompletedScriptId": 3216,
+    "otherVarps": [],
+    "varbits": [],
+    "taskCompletedScriptId": -1,
     "taskPointTiers": [
       {
         "varbitId": -1,
@@ -301,60 +208,39 @@
       {
         "varbitId": -1,
         "label": "Tier 2",
-        "points": 750
+        "points": 600
       },
       {
         "varbitId": -1,
         "label": "Tier 3",
-        "points": 1500
+        "points": 1200
       },
       {
         "varbitId": -1,
         "label": "Tier 4",
-        "points": 2500
+        "points": 2600
       },
       {
         "varbitId": -1,
         "label": "Tier 5",
-        "points": 5000
+        "points": 5200
       },
       {
         "varbitId": -1,
         "label": "Tier 6",
-        "points": 8000
+        "points": 8500
       },
       {
         "varbitId": -1,
         "label": "Tier 7",
-        "points": 16000
+        "points": 16500
       },
       {
         "varbitId": -1,
         "label": "Tier 8",
-        "points": 25000
+        "points": 28000
       }
     ],
-    "taskCompletionCountTiers": [
-      {
-        "varbitId": -1,
-        "label": "Starter",
-        "tasks": 0
-      },
-      {
-        "varbitId": -1,
-        "label": "1st Unlock",
-        "tasks": 50
-      },
-      {
-        "varbitId": -1,
-        "label": "2nd Unlock",
-        "tasks": 100
-      },
-      {
-        "varbitId": -1,
-        "label": "3rd Unlock",
-        "tasks": 200
-      }
-    ]
+    "taskCompletionCountTiers": null
   }
 ]

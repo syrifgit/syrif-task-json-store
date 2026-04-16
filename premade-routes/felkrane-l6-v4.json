@@ -1,0 +1,2706 @@
+{
+  "id": "felkrane-day1-l6-v4",
+  "name": "Felkrane League 6 Route V4",
+  "taskType": "LEAGUE_6",
+  "author": "Felkrane",
+  "description": "Day 1 route by Felkrane. Works for any relic, pact, and region choice. If Endless, turn off auto-banking until mining section. Abundance struggles most - aim for 10 less than suggested non-combat skill targets.",
+  "sections": [
+    {
+      "id": "start-tutorial-yama-agility",
+      "name": "Start - Tutorial & Yama Agility",
+      "items": [
+        {
+          "taskId": 14445,
+          "note": "Complete Leagues Tutorial and open Leagues Menu.\nThis route works for any relic, pact, and region choices. If you go Endless I would turn off auto banking until you get to the mining section. If you pick Abundance, other then quest requirements just get 10 less then what I suggest for non combat skills. Abundance will struggle the most with this guide as I don't take advantage of the relic really at all."
+        },
+        {
+          "taskId": 14662
+        },
+        {
+          "taskId": 14668,
+          "note": "Turn your run off and on"
+        },
+        {
+          "taskId": 14740,
+          "note": "Complete the Yama Agility course until 10 Agility"
+        },
+        {
+          "taskId": 14733
+        },
+        {
+          "taskId": 14729
+        }
+      ]
+    },
+    {
+      "id": "civitas-part-1",
+      "name": "Civitas Part 1",
+      "items": [
+        {
+          "customItem": {
+            "id": "civitas-part-1-001",
+            "label": "Exit Yama's Lair and enter Civitas"
+          }
+        },
+        {
+          "taskId": 14493,
+          "note": "Pet Renu, the Quetzal nearby"
+        },
+        {
+          "taskId": 14519
+        },
+        {
+          "taskId": 14441,
+          "note": "Run east and a little north to the training dummy, hit it once\nDon't train more then one hit"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-002",
+            "label": "Go south to the general store, buy a bucket if we dont have 1"
+          }
+        },
+        {
+          "taskId": 14538,
+          "note": "Fill a bucket on the nearby water pump"
+        },
+        {
+          "taskId": 15108,
+          "note": "Pickpocket Citizens until you have 28 coin pouches\nSteal from the bakery store for food"
+        },
+        {
+          "taskId": 15106,
+          "note": "Open the coin pouches"
+        },
+        {
+          "taskId": 15355,
+          "note": "Steal from men until you have 210 coins\nSteal from the bakery store for food"
+        },
+        {
+          "taskId": 14528,
+          "note": "Steal a loaf of Bread from a Bakery Stall and get 20 thieving"
+        },
+        {
+          "taskId": 14666
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-003",
+            "label": "Steal some silk from a silk stall"
+          }
+        },
+        {
+          "taskId": 14730,
+          "note": "Sell Silk to the merchant"
+        },
+        {
+          "taskId": 15303,
+          "note": "Cry near a child in the Bazaar"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-004",
+            "label": "Bank Everything but gold"
+          }
+        },
+        {
+          "taskId": 14495,
+          "note": "Run north to the Docks, talk to a Port Master on the right"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-005",
+            "label": "Buy 10 Buckets of Sand+Soda Ash, a chisel, and a Glassblowing Pipe from a trade crewmember",
+            "description": "Buy everything 1 at a time. if you don't do this you will have to sell them to recoup money"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-006",
+            "label": "Craft these into Molten Glass at the nearby furnace, bank them"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-007",
+            "label": "Buy 10 more Buckets of Sand and Soda Ash"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-008",
+            "label": "Craft these into Molten Glass"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-009",
+            "label": "Blow the 20 Glass into empty oil lamps"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-010",
+            "label": "Withdraw gold and a pot"
+          }
+        },
+        {
+          "taskId": 14504,
+          "note": "Pet a Xolo East of the Shrine in Southern Civitas"
+        },
+        {
+          "taskId": 14509,
+          "note": "In the Shrine Salute near the Statue of Quoatlos"
+        },
+        {
+          "taskId": 14660,
+          "note": "Run southeast to the stolen cabbage then sit near it"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-011",
+            "label": "Collect 6 wheat from the wheatfield to the south"
+          }
+        },
+        {
+          "taskId": 14503,
+          "note": "Make flour in the windmill"
+        },
+        {
+          "taskId": 15114,
+          "note": "Run West and pick some Sweetcorn from the field"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-012",
+            "label": "Run west to the farming patches, and buy a rake and a bucket from Agelus Farm Shop"
+          }
+        },
+        {
+          "taskId": 14489,
+          "note": "Rake the flower farming patch"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-013",
+            "label": "Pick up 6 potatoes in the southern field",
+            "description": "Keep at least 1"
+          }
+        },
+        {
+          "taskId": 14534,
+          "note": "Run north and Milk a Buffalo at Ortus's farm"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-014",
+            "label": "Run back into Civitas, then run directly north from the wall until you get to the building in most Northwest Civitas"
+          }
+        },
+        {
+          "taskId": 14531,
+          "note": "Enter the building and follow it to the exit outside of Civitas"
+        },
+        {
+          "taskId": 13530,
+          "note": "Run west near the altar and drink from a bird bath"
+        },
+        {
+          "taskId": 14932,
+          "note": "Activate any prayer beside the altar"
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-015",
+            "label": "Run to northwest to Quetzacil Gorge"
+          }
+        },
+        {
+          "customItem": {
+            "id": "civitas-part-1-016",
+            "label": "Buy a torch and shears from the general store, sell the lamps",
+            "description": "sell them 1 at a time"
+          }
+        },
+        {
+          "taskId": 14664,
+          "note": "Light the torch"
+        },
+        {
+          "taskId": 14507,
+          "note": "Shear two Alpacas"
+        },
+        {
+          "taskId": 15353,
+          "note": "Pick 10-15 flax, you will need a few spaces for grapes later"
+        },
+        {
+          "taskId": 14514,
+          "note": "Spin 2 Balls of Wool and the flax into Bowstrings"
+        }
+      ]
+    },
+    {
+      "id": "aldarin-part-1",
+      "name": "Aldarin Part 1",
+      "items": [
+        {
+          "taskId": 14623,
+          "note": "Take a Quetzal to Aldarin"
+        },
+        {
+          "customItem": {
+            "id": "aldarin-part-1-017",
+            "label": "Run northwest and get a grape barrel from the foreman"
+          }
+        },
+        {
+          "taskId": 14731,
+          "note": "Fill the grape barrel and turn it into the foreman"
+        },
+        {
+          "customItem": {
+            "id": "aldarin-part-1-018",
+            "label": "Bank all but Chisel and Gold"
+          }
+        },
+        {
+          "taskId": 14732,
+          "note": "Run north to the cabbage field and pick up+drop 6 Cabbages"
+        },
+        {
+          "customItem": {
+            "id": "aldarin-part-1-019",
+            "label": "Run to the gem shop to the north"
+          }
+        },
+        {
+          "customItem": {
+            "id": "aldarin-part-1-020",
+            "label": "Purchase sapphires to 27, cut them, sell them back 1 at a time",
+            "description": "150 Profit Per"
+          }
+        },
+        {
+          "taskId": 14818,
+          "note": "Purchase emeralds to 34, cut them, sell them back 1 at a time\n450 profit per"
+        },
+        {
+          "taskId": 14533,
+          "note": "Purchase rubies to 46, cut them, sell them back 1 at a time\n900 profit per, we need a lot of gold. Abundance can stop much earlier if you want."
+        },
+        {
+          "taskId": 14454
+        },
+        {
+          "customItem": {
+            "id": "aldarin-part-1-021",
+            "label": "Buy, cut, and keep 1 Sapphire, Emerald, and Ruby"
+          }
+        },
+        {
+          "taskId": 14529,
+          "note": "Buy and eat 1 onion at the nearby grocery"
+        },
+        {
+          "taskId": 14512,
+          "note": "Purchase a Stew and Moonlite at the pub, drink the moonlite\nSave the stew for later"
+        }
+      ]
+    },
+    {
+      "id": "tel-teklan-kastori-part-1",
+      "name": "Tel Teklan / Kastori Part 1",
+      "items": [
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-022",
+            "label": "Take the Quetzal to Tel Teklan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-023",
+            "label": "Go to the docks in Western Tel Teklan"
+          }
+        },
+        {
+          "taskId": 14772,
+          "note": "Dance near a trio of bards"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-024",
+            "label": "Buy 10 Air Rune Packs, 3 Mind Rune packs, and 2 Chaos Rune Packs from the Rune Shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-025",
+            "label": "Purchase Purple Dye from the Dye Shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-026",
+            "label": "Purchase a cup of tea from the Inn"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-027",
+            "label": "Purchase a pestle and mortar from the general store"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-028",
+            "label": "Buy a willow and maple shortbow. Plus a Maple Longbow"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-029",
+            "label": "Bank everything, withdraw gold, axe, tinderbox, small fishing net"
+          }
+        },
+        {
+          "taskId": 14797,
+          "note": "Take the rowboat to the east to Kastori"
+        },
+        {
+          "taskId": 14753,
+          "note": "Run northwest and catch shrimp until 5 fishing\nChop a log and cook the fish whenever you have 1 slot open"
+        },
+        {
+          "taskId": 15356
+        },
+        {
+          "taskId": 14771
+        },
+        {
+          "taskId": 14774,
+          "note": "Catch Sardines and Herring until 20 fishing\nGet 25+ sardines, cook 5 in a row"
+        },
+        {
+          "taskId": 14492
+        },
+        {
+          "taskId": 14757,
+          "note": "Catch an anchovy"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-030",
+            "label": "In the fishing shop buy big fishing net, fishing rod, fly fishing rod, harpoon, lobster pot, 10 bait packs, and 20 feath"
+          }
+        },
+        {
+          "taskId": 14487,
+          "note": "Run north of Kastori and activate the Statue of Ates\nIt is a little SE of gemstone"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-031",
+            "label": "Pet a Caique nearby"
+          }
+        },
+        {
+          "taskId": 14452,
+          "note": "Cast Home Teleport"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-032",
+            "label": "Purchase Iron through Adamant Scimitars, Mithril Spear, Steel Platelegs, Bronze Platebody, and Adamant Platebody+Platele"
+          }
+        },
+        {
+          "taskId": 15113,
+          "note": "Give Oli the Stew"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-1-033",
+            "label": "Purchase 5+ Bird Snares and Box Traps from the General Store"
+          }
+        },
+        {
+          "taskId": 15095,
+          "note": "Purchase a cape and apron from the clothes shop, use the Purple dye on the cape, equip the apron"
+        },
+        {
+          "taskId": 15104,
+          "note": "Purchase a POH from the Agent across the Bazaar"
+        },
+        {
+          "taskId": 15373,
+          "note": "Fish Up a House Key, Old Boot, and a Casket"
+        },
+        {
+          "taskId": 14530
+        },
+        {
+          "taskId": 14247
+        }
+      ]
+    },
+    {
+      "id": "auburnvale-part-1",
+      "name": "Auburnvale Part 1",
+      "items": [
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-034",
+            "label": "Take a Quetzal to Auburnvale"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-035",
+            "label": "Deposit all withdraw runes, food, gold, Cup of Tea, dramen staff"
+          }
+        },
+        {
+          "taskId": 13582,
+          "note": "Drink the cup of tea"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-036",
+            "label": "Purchase a staff of fire from the staff shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-037",
+            "label": "Equip the dramen staff"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-038",
+            "label": "Run southeast down the bridge, go to fairy ring BKQ"
+          }
+        },
+        {
+          "taskId": 13901,
+          "note": "Equip the staff of fire"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-039",
+            "label": "Spawn and kill Tree Spirits via safespot until you get a rune axe",
+            "description": "It is 1/32. THIS IS SKIPPABLE as adamant axe is buyable, but there isnt a much easier method to get a rune axe outside of kourend"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-040",
+            "label": "Enter Zanaris",
+            "description": "(no L6 task ID found - kept as custom)"
+          }
+        },
+        {
+          "taskId": 14665
+        },
+        {
+          "taskId": 14513,
+          "note": "Requip the dramen staff and enter zanaris"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-041",
+            "label": "Go grab a task from the slayer master",
+            "description": "If easily doable at any point in the guide, do it"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-042",
+            "label": "Buy Anti Dragon Fire Shield"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-043",
+            "label": "Kill a cow and keep it's cowhide"
+          }
+        },
+        {
+          "taskId": 14798,
+          "note": "Fairy ring to CKQ then fairy ring back to Auburnvale AIS"
+        },
+        {
+          "taskId": 14453,
+          "note": "Run Southwest to the range in Nemus, cook the rabbit"
+        },
+        {
+          "taskId": 14658,
+          "note": "Eat one"
+        },
+        {
+          "taskId": 14780,
+          "note": "Feed a nearby Dog (Chirbaya) a bone"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-044",
+            "label": "Run just south of Nemus and activate the Statue of Ates"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-045",
+            "label": "Run north and tan the cowhide",
+            "description": "Keep this for later"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-046",
+            "label": "Run east and buy any axe you didn't recieve from the tree spirits"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-047",
+            "label": "Bank everything but axes up to mithril, knife, feathers, tinderbox",
+            "description": "You can drop Iron-Steel Axe when done with them, keep mith-rune axes though"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-048",
+            "label": "Run southwest and get a forestry kit, equip it",
+            "description": "I would run back into Auburnvale for WC"
+          }
+        },
+        {
+          "taskId": 14755,
+          "note": "Chop 14 Trees"
+        },
+        {
+          "taskId": 15240
+        },
+        {
+          "taskId": 15365,
+          "note": "Burn 13 Logs\nKeep 1 Log"
+        },
+        {
+          "taskId": 14782,
+          "note": "Withdraw Gold, and turn at least 1 log into a plank at the sawmill. Purchase a saw here as well"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-049",
+            "label": "Deposit all and withdraw gold, staff of fire, air/chaos/mind runes, dramen staff.",
+            "description": "You will need 40k or so gold here"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-1-050",
+            "label": "Use the nearby Fairy Ring to AJP"
+          }
+        },
+        {
+          "taskId": 14712,
+          "note": "Complete a Ribbiting Tale of a Lily Pad Labour Dispute"
+        },
+        {
+          "taskId": 13888,
+          "note": "Defeat a Hill Giant west of the quest"
+        }
+      ]
+    },
+    {
+      "id": "cam-torum-part-1",
+      "name": "Cam Torum Part 1",
+      "items": [
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-051",
+            "label": "Run west to Cam Torum and enter it"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-052",
+            "label": "Buy Iron through Rune Pickaxe from the Pickaxe shop"
+          }
+        },
+        {
+          "taskId": 14659,
+          "note": "Buy 5 Law+Nature Runes and 25 Earth Runes at the rune shop"
+        },
+        {
+          "taskId": 14871,
+          "note": "If you are 21 magic already low alch anything\nIf not do it later when we train magic"
+        },
+        {
+          "taskId": 14758,
+          "note": "Get a haircut"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-053",
+            "label": "Trim your beard in Cam torum"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-054",
+            "label": "Buy two Jug packs from the general store here"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-055",
+            "label": "Buy 100 or more pie dishes and deposit them"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-056",
+            "label": "Buy an eye of newt pack and a water vial pack"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-057",
+            "label": "Deposit everything but the pickaxes"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-058",
+            "label": "Exit Cam Torum and go to Ralos's Rise mine",
+            "description": "If you are endless harvest reenable banking of items you collect"
+          }
+        },
+        {
+          "taskId": 14942,
+          "note": "Mine 19 Tin and Copper\nThis is for 16 Smithing as well. Mine at least 5 tin and copper even if you are hotfoot. Drop pickaxes once you move onto the next tier"
+        },
+        {
+          "taskId": 14951
+        },
+        {
+          "taskId": 14945,
+          "note": "Mine 273 Iron Ore\nIf you have Abundance it might be worth going to Mistrock or south of Tel Teklan for your iron. If you are hotfoot you will need 10 Iron Bars moving forward, so 25 or so Iron in ore form at least."
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-059",
+            "label": "Reenter Cam Torum and go to the mine"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-060",
+            "label": "Mine 25 Coal"
+          }
+        },
+        {
+          "taskId": 15147,
+          "note": "Mine Calcified Rocks until you get 10 Calcified Deposits and a Calcified Moth from breaking down one. Get 1775+ Shards\nDeposits are 1/75 and a moth is 1/4 from there"
+        },
+        {
+          "taskId": 14950
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-061",
+            "label": "Mine a Calcified Deposit",
+            "description": "(no L6 task ID found - kept as custom)"
+          }
+        },
+        {
+          "taskId": 15097
+        },
+        {
+          "taskId": 14734
+        },
+        {
+          "taskId": 15247
+        },
+        {
+          "taskId": 15227,
+          "note": "Use the moth to teleport you to Cam Torum"
+        },
+        {
+          "taskId": 15312,
+          "note": "Smith 16 Bronze Bars"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-062",
+            "label": "Smith 16 sets of Bronze Arrowtips"
+          }
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-063",
+            "label": "Smith a Bronze Full Helm"
+          }
+        },
+        {
+          "taskId": 15315,
+          "note": "Smith all but 35 Iron Ore into Bars\nThis should make 119 Iron bars, if you make less you will need to go collect more Iron :("
+        },
+        {
+          "taskId": 14249,
+          "note": "Smith 1 Iron Dagger and the rest on sets of Iron Arrowtips"
+        },
+        {
+          "taskId": 14216,
+          "note": "Equip the Iron Dagger"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-064",
+            "label": "Smith a Bronze Plateskirt"
+          }
+        },
+        {
+          "taskId": 15322,
+          "note": "Withdraw the full Bronze set and equip it"
+        },
+        {
+          "taskId": 15314,
+          "note": "Smith 20 Steel bars"
+        },
+        {
+          "taskId": 15319,
+          "note": "Smith 10 Sets of Steel Bolts (unf)"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-065",
+            "label": "Smith 5 Sets of Steel Arrowtips"
+          }
+        },
+        {
+          "taskId": 14438,
+          "note": "Either use the Shooting Stars Plugin or Discord, but whenever you can mine a shooting star prioritize it. It is a free hard task"
+        },
+        {
+          "customItem": {
+            "id": "cam-torum-part-1-066",
+            "label": "Withdraw Gold, Exit Cam Torum, run southeast to Sunset Coast"
+          }
+        },
+        {
+          "taskId": 14256,
+          "note": "Purchase a Steel Full helm and equip it, also buy a Mithril and Adamant Full Helm"
+        },
+        {
+          "taskId": 14535,
+          "note": "Buy a bucket nearby and fill it with sand"
+        },
+        {
+          "taskId": 14527
+        }
+      ]
+    },
+    {
+      "id": "auburnvale-part-2-construction",
+      "name": "Auburnvale Part 2 - Construction & Cooking",
+      "items": [
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-067",
+            "label": "Take the Quetzal to Auburnvale"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-068",
+            "label": "Deposit all. Withdraw Steel-Rune Axes, Knife, Feathers, Forestry Kit (Equip), and Arrowtips",
+            "description": "If you don't have arrowtips, compensate for XP with headless arrows or unstrung bows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-069",
+            "label": "Chop 8 Trees",
+            "description": "Drop Axes as you no longer need them"
+          }
+        },
+        {
+          "taskId": 14869,
+          "note": "Fletch 8 sets of Arrowshafts"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-070",
+            "label": "Fletch 8 sets of Headless Arrows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-071",
+            "label": "Fletch 8 sets of Bronze Arrows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-072",
+            "label": "Chop 50 Oak Logs in Western Auburnvale",
+            "description": "Make the arrows when the inventory fills"
+          }
+        },
+        {
+          "taskId": 14856,
+          "note": "Fletch 50 sets of Arrowshafts from Oak Logs"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-073",
+            "label": "Fletch 100 sets of Headless Arrows"
+          }
+        },
+        {
+          "taskId": 14854,
+          "note": "Fletch 100 sets of Iron Arrows"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-074",
+            "label": "Make one Oak Shortbow (u)"
+          }
+        },
+        {
+          "taskId": 14868,
+          "note": "Withdraw and string the shortbow, then deposit it"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-075",
+            "label": "Chop 25 Oak Logs"
+          }
+        },
+        {
+          "taskId": 14859,
+          "note": "Create 25 Oak Stocks"
+        },
+        {
+          "taskId": 14867,
+          "note": "Chop 9 Willow Logs\nWillows are in southern Auburnvale"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-076",
+            "label": "Fletch 2 sets of Arrowshafts from Willow Logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-077",
+            "label": "Fletch 6 sets of Headless Arrows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-078",
+            "label": "Fletch 5 sets of Steel Arrows"
+          }
+        },
+        {
+          "taskId": 14756,
+          "note": "Fletch 5 Willow Shortbow (u)"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-079",
+            "label": "Fletch 1 Willow Shield"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-080",
+            "label": "Deposit all, withdraw best axe and Tinderbox"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-081",
+            "label": "Chop 20 Oak Logs"
+          }
+        },
+        {
+          "taskId": 14750,
+          "note": "Burn 20 Oak logs"
+        },
+        {
+          "taskId": 14777
+        },
+        {
+          "taskId": 14781,
+          "note": "Burn 100 Willow Logs"
+        },
+        {
+          "taskId": 14817
+        },
+        {
+          "taskId": 14752,
+          "note": "Chop 50 Maple Logs"
+        },
+        {
+          "taskId": 15094,
+          "note": "Burn 50 Maple Logs"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-082",
+            "label": "Deposit all, withdraw best axe and Gold"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-083",
+            "label": "Chop 22 Normal Logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-084",
+            "label": "Turn these into Planks and purchase 250 Bronze Nails"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-085",
+            "label": "Chop 60 Oak Logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-086",
+            "label": "Turn these into Oak Planks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-087",
+            "label": "Purchase a Staff of Water from the Staff shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-088",
+            "label": "Quetzal to Aldarin"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-089",
+            "label": "Deposit all withdraw chisel and gold"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-090",
+            "label": "Deposit all, withdraw hammer, saw, gold, nails, and planks"
+          }
+        },
+        {
+          "taskId": 14820,
+          "note": "Enter your POH and buy a Parlour"
+        },
+        {
+          "taskId": 14747
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-091",
+            "label": "Create 11 Crude wooden chairs to 15 Construction"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-092",
+            "label": "Buy a workshop room"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-093",
+            "label": "Buy a kitchen"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-094",
+            "label": "Deposit all, withdraw hammer, saw, and oak planks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-095",
+            "label": "Enter POH and create 13 Repair Benches"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-096",
+            "label": "Withdraw 24 more Oak Planks go and create 12 more benches"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-097",
+            "label": "Withdraw 10 more Oak Planks and Gold"
+          }
+        },
+        {
+          "taskId": 14749,
+          "note": "Create a Oak Larder in your POH"
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-098",
+            "label": "Purchase a Games Room"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-099",
+            "label": "Create a Hoop and stick game"
+          }
+        },
+        {
+          "taskId": 14930,
+          "note": "Score in the game at least once\nCan do this in a bit when you get ranged XP"
+        },
+        {
+          "taskId": 13629,
+          "note": "Withdraw and deposit 101 Pots of Flour from your Larder. DEPOSIT THEM IN THE DEPOSIT BOX ON THE DOCKS."
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-100",
+            "label": "Withdraw Gold and purchase 75 redberries and 150 Grapes from the Fruits and Veg store in the north",
+            "description": "This Pie/Wine section is long and will take a while. If you have Asgarnia/Kandarin/Kourend you can do Pies later easier. But the points matter less."
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-101",
+            "label": "Deposit all, withdraw Jugs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-102",
+            "label": "Fill 100-200 Jugs with Water"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-103",
+            "label": "Make 1 Pizza Base, bank this for later"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-104",
+            "label": "Create 100 Pastry Dough, then 75 Pie Shells, then 100 Uncooked Berry Pies",
+            "description": "IF YOU BURN ANY MAKE MORE UNTIL YOU GET 75. DONT MAKE MORE THEN 75"
+          }
+        },
+        {
+          "customItem": {
+            "id": "auburnvale-part-2-construction-105",
+            "label": "Cook the Pies"
+          }
+        },
+        {
+          "taskId": 14792,
+          "note": "Add Grapes to Jugs of water until you make 100 Jugs"
+        },
+        {
+          "taskId": 14795
+        },
+        {
+          "taskId": 14937,
+          "note": "Drink one jug of wine\nIf you have to restore 6+ health for the task, take damage then drink another"
+        }
+      ]
+    },
+    {
+      "id": "tel-teklan-kastori-part-2-skil",
+      "name": "Tel Teklan / Kastori Part 2 - Skilling, Crafting, Quests",
+      "items": [
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-106",
+            "label": "Take a Quetzal to Tel Teklan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-107",
+            "label": "Deposit all and withdraw best pickaxe and bucket of water"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-108",
+            "label": "Run Northeast to the gemstone spot"
+          }
+        },
+        {
+          "taskId": 14828,
+          "note": "Mine 20 Silver and 3 or more Clay"
+        },
+        {
+          "taskId": 13599
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-109",
+            "label": "Go back to Kastori and the furnance"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-110",
+            "label": "Smelt 20 Silver bars"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-111",
+            "label": "Use the bucket of water on clay"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-112",
+            "label": "Deposit all, withdraw Big Fishing Net, fishing bait, fly fishing rod, feathers, axe, tinderbox.",
+            "description": "Cut logs and cook the fish when inventory fills"
+          }
+        },
+        {
+          "taskId": 14735,
+          "note": "Run Northwest to the fishing spot"
+        },
+        {
+          "taskId": 14941
+        },
+        {
+          "taskId": 14949
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-113",
+            "label": "Fish up until you get 10 Cod and 20 Mackerel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-114",
+            "label": "Run east to the fishing spot"
+          }
+        },
+        {
+          "taskId": 14800,
+          "note": "Catch 50 Salmon+75 Trout"
+        },
+        {
+          "taskId": 14872
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-115",
+            "label": "Deposit all, withdraw bird snares, scimitars, Willow Shield, best axe, all shortbows, all arrows, food, and rune pickaxe",
+            "description": "Need Iron-Addy Scimitar and Shortbow-Maple Shortbow"
+          }
+        },
+        {
+          "taskId": 14759,
+          "note": "Run east to the Crimson Swift hunting spot. Catch 5 of them\nIf lots of competition stop at 9, catch longtails in Auburnvale to 17. You only need 12 though"
+        },
+        {
+          "taskId": 14763
+        },
+        {
+          "taskId": 14767,
+          "note": "Cut at least 4 teak logs at the nearby trees\nIf you have Woodsman don't let it burn these"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-116",
+            "label": "Safespot a Jaguar nearby"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-117",
+            "label": "Run south to Tonali Cavern entrance near the ponds"
+          }
+        },
+        {
+          "taskId": 15282,
+          "note": "Kill a frog"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-118",
+            "label": "Run west near Tel Teklan towards the Tropical Wagtails"
+          }
+        },
+        {
+          "taskId": 15351,
+          "note": "Catch 15 of them"
+        },
+        {
+          "taskId": 15349
+        },
+        {
+          "taskId": 13666,
+          "note": "Go find the Gemstone Crab, train on it"
+        },
+        {
+          "taskId": 13904,
+          "note": "Train attack to 45ish, equip Mith to Rune weapons"
+        },
+        {
+          "taskId": 15336
+        },
+        {
+          "taskId": 15352,
+          "note": "Train Strength to 45ish"
+        },
+        {
+          "taskId": 6807
+        },
+        {
+          "taskId": 14245,
+          "note": "Train Defense to 30, equip the willow shield"
+        },
+        {
+          "taskId": 14226,
+          "note": "Train Ranged to 30, equip each of the shortbows\nShoot 6 Iron Arrows at least"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-119",
+            "label": "Run back to Tel Teklan"
+          }
+        },
+        {
+          "taskId": 14234,
+          "note": "Kill 3 Chickens in under 6 seconds in the pen in the north"
+        },
+        {
+          "taskId": 14240
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-120",
+            "label": "Deposit all, withdraw Gold, Staff of Water, Mind/Chaos/Air, saw, hammer, nails, and food"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-121",
+            "label": "Purchase some death+Earth runes from the Rune Shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-122",
+            "label": "Start and do Scrambled until you get to the Dragon Cave",
+            "description": "Skills can't be boosted, so Abundance you have to get the legit requirements"
+          }
+        },
+        {
+          "taskId": 13616,
+          "note": "Safespot Red Dragons until you bury 16 Dragon Bones\nUse Water Spells over anything else"
+        },
+        {
+          "taskId": 13610,
+          "note": "Make sure you get at least 55 magic and cast Earth blast once\nCan train magic at Gemstone Crab instead"
+        },
+        {
+          "taskId": 13887,
+          "note": "Finish Scrambled!"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-123",
+            "label": "Rowboat to Kastori"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-124",
+            "label": "Enter the basement in Northeastern Kastori"
+          }
+        },
+        {
+          "taskId": 13910,
+          "note": "Kill the imp with earth spells, keep its ashes"
+        },
+        {
+          "taskId": 13583
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-125",
+            "label": "Withdraw Full Mithril and Adamant Sets, Hammer, 5 Steel Bars"
+          }
+        },
+        {
+          "taskId": 13585,
+          "note": "Equip each set"
+        },
+        {
+          "taskId": 14143
+        },
+        {
+          "taskId": 13634,
+          "note": "Smith a Steel 2H Sword on the nearby Anvil"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-126",
+            "label": "Withdraw Bone Shards, Imp Ashes, and some jugs of wine"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-127",
+            "label": "Quetzal to Ralos Rise"
+          }
+        },
+        {
+          "taskId": 13909,
+          "note": "Bless the jugs of wine, then use the bone shards to train Prayer"
+        },
+        {
+          "taskId": 15334,
+          "note": "Activate Protect from Melee and Smite near the altar"
+        },
+        {
+          "taskId": 13611
+        },
+        {
+          "taskId": 14213
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-128",
+            "label": "Run southeast of the temple/altar down the pass a little. Activate the Statue of Ates"
+          }
+        },
+        {
+          "taskId": 13619,
+          "note": "Go north and kill an icefiend"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-129",
+            "label": "Go Northeast towards Huey's mountain, activate the Statue of Ates just west of Huey."
+          }
+        },
+        {
+          "taskId": 14741,
+          "note": "Teleport to Yama's Lair, scatter the ashes here"
+        },
+        {
+          "taskId": 15288,
+          "note": "Do the Yama Agility Course until 32 and stepped on it 666 times"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-130",
+            "label": "Exit to Civitas"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-131",
+            "label": "Withdraw Law+Air+Earth+Nature Runes, Gold, Emerald, Ruby, Ball of Wool, Staff of Fire, and Soft Clay"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-132",
+            "label": "Run to the house in NE Civitas, go to the 2nd Floor"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-133",
+            "label": "Telegrab two Gold Bars"
+          }
+        },
+        {
+          "taskId": 15289,
+          "note": "Cast Teleport to Civitas"
+        },
+        {
+          "taskId": 14617
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-134",
+            "label": "Go to the crafitng shop and buy every jewelry mold",
+            "description": "Including Tiaras"
+          }
+        },
+        {
+          "taskId": 13633,
+          "note": "Use the Soft Clay on the pottery wheel and then use whatever you make on the nearby Pottery Oven\nIf it breaks or whatever use your extra"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-135",
+            "label": "Go to the Furnace"
+          }
+        },
+        {
+          "taskId": 14506,
+          "note": "Make a Emerald Ring"
+        },
+        {
+          "taskId": 15243,
+          "note": "High Alch the Ring"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-136",
+            "label": "Make a Ruby Amulet (u) and Sapphire Amulet (u)"
+          }
+        },
+        {
+          "taskId": 15363,
+          "note": "String the Amulets"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-137",
+            "label": "Withdraw 20 Silver Bars"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-138",
+            "label": "Make them into Tiaras"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-139",
+            "label": "Purchase 100 Buckets of Sand and Soda Ash from the charter shop"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-140",
+            "label": "Turn these into Molten Glass"
+          }
+        },
+        {
+          "taskId": 14791,
+          "note": "Then turn those into Unpowered Orbs"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-141",
+            "label": "Steal from the Cake stall until 34 Thieving"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-142",
+            "label": "Quetzal to Auburnvale"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-143",
+            "label": "Withdraw 4 Teak Logs, a full helm, Steel Platelegs, Maple Longbow, Ruby Amulet, Gold, best axe and nails, leather"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-144",
+            "label": "Chop 2 Oak logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-145",
+            "label": "Turn all logs into planks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-146",
+            "label": "Run east to Salvager Outlook Mine."
+          }
+        },
+        {
+          "taskId": 14806,
+          "note": "Create and fill the medium STASH unit here"
+        },
+        {
+          "taskId": 14807,
+          "note": "Inspect a Green flame, near Salvagers outlook."
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-147",
+            "label": "Quetzal to Aldarin"
+          }
+        },
+        {
+          "taskId": 15245,
+          "note": "Complete Death on the Isle"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-148",
+            "label": "Go to the backstage after the quest and get a costume needle"
+          }
+        },
+        {
+          "taskId": 14799,
+          "note": "Craft a pair of leather chaps"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-149",
+            "label": "Get an Icon to activate the Statue of Ates"
+          }
+        },
+        {
+          "taskId": 14851,
+          "note": "Activate the Statue of Ates in Northern Aldarin\nNorth of the Gem Store"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-150",
+            "label": "Withdraw 4 Teak Planks, Saw, Hammer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-151",
+            "label": "Enter POH and create a Jacky Jester"
+          }
+        },
+        {
+          "taskId": 14517,
+          "note": "Beat Jacky Jester in a game"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-152",
+            "label": "Deposit all, withdraw Dramen Staff head to the Fairy Ring"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-153",
+            "label": "Go to Zanaris then enter Puro Puro"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-154",
+            "label": "Collect your free supplies from Elnock"
+          }
+        },
+        {
+          "taskId": 14679,
+          "note": "Catch Baby Implings until you get a lockpick\nTurn in Imps for Jars"
+        },
+        {
+          "taskId": 14810,
+          "note": "Catch any implings until 36 hunter and 200 Imps caught"
+        },
+        {
+          "taskId": 14618
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-155",
+            "label": "Leagues teleport to Civitas"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-156",
+            "label": "Withdraw Staff of Fire, Chaos Runes, Air Runes, Gold, Food"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-157",
+            "label": "Run to NW Civitias and enter the underground",
+            "description": "This is the barracks, the 2nd most NW house"
+          }
+        },
+        {
+          "taskId": 14742,
+          "note": "Defeat a Guard"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-158",
+            "label": "Exit and head back southeast to the bazaar"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-159",
+            "label": "Steal from Wealthy Citizens until you have at least 10 Pouches"
+          }
+        },
+        {
+          "taskId": 14768,
+          "note": "Open the Pouches"
+        },
+        {
+          "taskId": 14283,
+          "note": "Steal at least 15 House keys"
+        },
+        {
+          "taskId": 14284
+        },
+        {
+          "taskId": 13627,
+          "note": "Pickpocket a knight of varlamore 20 times"
+        },
+        {
+          "taskId": 15091,
+          "note": "Steal Valuables until you have 100+"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-160",
+            "label": "Steal from Wealthy Citizens/Houses until 65 Thieving"
+          }
+        },
+        {
+          "taskId": 15171,
+          "note": "Steal from a a Spice Stall\nIf Abundance also steal from Gem Stall"
+        },
+        {
+          "taskId": 15155,
+          "note": "Pay an Urchin for Information with 15 Valuables"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-161",
+            "label": "Withdraw Gold and Pizza Base"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-162",
+            "label": "Buy 1 cheese, raw beef, and 1 tomato the Grocery Store"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-163",
+            "label": "Assemble the pizza by putting the tomato on the base then cheese on it"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-164",
+            "label": "Cook the pizza on a range"
+          }
+        },
+        {
+          "taskId": 15175,
+          "note": "Cook the meat and add it to the pizza"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-165",
+            "label": "Buy 25 more Raw Beef from the Store"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-166",
+            "label": "Cook them, then deposit half. Withdraw Pie Shells"
+          }
+        },
+        {
+          "taskId": 15179,
+          "note": "Add the meat to the shells until you cook 25."
+        },
+        {
+          "taskId": 15189
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-167",
+            "label": "Deposit these and withdraw Gold, bucket of milk, potato, and either stuff to mage or melee with"
+          }
+        },
+        {
+          "taskId": 15192,
+          "note": "Buy 15 Pineapples from the Charter Shop and a Tyras Helm"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-168",
+            "label": "Equip the Helm"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-169",
+            "label": "Start Meat and Greet and continue until you go to Ortus Farm"
+          }
+        },
+        {
+          "taskId": 15211,
+          "note": "Kill a rat nearby"
+        },
+        {
+          "taskId": 14239,
+          "note": "Kill a thief nearby"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-170",
+            "label": "Go to Ortus Farm"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-171",
+            "label": "Deposit the pineapples into the Compost Bin"
+          }
+        },
+        {
+          "taskId": 13906,
+          "note": "Use a churn to make some butter."
+        },
+        {
+          "taskId": 13631,
+          "note": "Make a potato with butter"
+        },
+        {
+          "taskId": 14442,
+          "note": "Pickpocket the master farmer for 1 Guam and 3 Potato Seeds"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-172",
+            "label": "Buy 3 Compost, Seed Dibbler, 15 buckets, and a Spade from the farm shop",
+            "description": "Store these with the farmer after you finish using them"
+          }
+        },
+        {
+          "taskId": 14443,
+          "note": "Rake and Plant the Potato and Guam Seeds"
+        },
+        {
+          "taskId": 15110,
+          "note": "Pay the farmer to protect the potatos with Compost"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-173",
+            "label": "Compost the Guam"
+          }
+        },
+        {
+          "taskId": 15111,
+          "note": "Kill a buffalo to the north"
+        },
+        {
+          "taskId": 15112,
+          "note": "Continue Meat and Greet until you kill the Dire Wolf Alpha\nIf this doesnt count for the task reenter the cave and kill one"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-174",
+            "label": "Continue Meat and Greet until you need go to the Colisseum"
+          }
+        },
+        {
+          "taskId": 13625,
+          "note": "Finish the first wave of the Colisseum"
+        },
+        {
+          "taskId": 13665,
+          "note": "Talk to any Gladiator nearby"
+        },
+        {
+          "taskId": 14713,
+          "note": "Finish Meat and Greet"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-175",
+            "label": "Withdraw 7 Vials of Water and Eyes of Newt"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-176",
+            "label": "Run back to Ortus Farm"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-177",
+            "label": "Harvest the Potatos and Guams"
+          }
+        },
+        {
+          "taskId": 14790,
+          "note": "Clean the Guams then turn them into unfinished potions"
+        },
+        {
+          "taskId": 14940,
+          "note": "Then into Attack potions"
+        },
+        {
+          "taskId": 14845,
+          "note": "Grab 15 buckets and get the supercompost from the bin"
+        },
+        {
+          "taskId": 14785,
+          "note": "You will need to farm 25 more Guams and turn them into attack potions at some point before we can do the Hunter quest. Every 16 minutes you can do a farm run.\nUse the super compost to protect them, should take 4 or 5 runs hopefully."
+        },
+        {
+          "taskId": 13577
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-178",
+            "label": "Quetzal to Auburnvale"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-179",
+            "label": "Deposit all, withdraw best axe and knife"
+          }
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-180",
+            "label": "Chop 5 Willow Logs"
+          }
+        },
+        {
+          "taskId": 14511,
+          "note": "Complete the Vale Totems Miniquest"
+        },
+        {
+          "taskId": 14671,
+          "note": "Fully Decorate a Totem with Oak Longbows (u)"
+        },
+        {
+          "customItem": {
+            "id": "tel-teklan-kastori-part-2-skil-181",
+            "label": "Cut 50 Willow Logs"
+          }
+        },
+        {
+          "taskId": 15375,
+          "note": "Fletch 50 Willow Longbows (u)"
+        }
+      ]
+    },
+    {
+      "id": "ent-trail-vale-totems",
+      "name": "Ent Trail / Vale Totems",
+      "items": [
+        {
+          "taskId": 14860,
+          "note": "While doing Vale Totems Admire some beautiful scenery and step on an Ent Trail"
+        },
+        {
+          "taskId": 15139
+        },
+        {
+          "taskId": 14518,
+          "note": "Fully Decorate a Totem with Willow Longbows (u)"
+        },
+        {
+          "customItem": {
+            "id": "ent-trail-vale-totems-182",
+            "label": "Do Vale Totems with Willow Longbows (u) until 55",
+            "description": "We are doing Vale Totems now for the little bit of extra construction XP."
+          }
+        },
+        {
+          "customItem": {
+            "id": "ent-trail-vale-totems-183",
+            "label": "Chop 25 Maple Logs"
+          }
+        },
+        {
+          "taskId": 14510,
+          "note": "Turn these into 25 Maple Longbows (u)"
+        },
+        {
+          "taskId": 14858,
+          "note": "Fully Decorate 24 Totems with Maple Longbows (u)"
+        }
+      ]
+    },
+    {
+      "id": "karamja-brimhaven-shilo-villag",
+      "name": "Karamja / Brimhaven / Shilo Village",
+      "items": [
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-184",
+            "label": "Deposit all, withdraw best axe, harpoon, lobster pot, and tinderbox",
+            "description": "I have to assume Karamja is unlocked by now. It isn't useful for any training prior to this so it doesn't matter if we delayed it."
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-185",
+            "label": "Quetzal to Tel Teklan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-186",
+            "label": "Run to the southwest corner of the rainforest, to the hill. Go up the shortcut"
+          }
+        },
+        {
+          "taskId": 15374,
+          "note": "Sit east or west of the picnic to equip an orange"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-187",
+            "label": "Teleport to Fight Pits"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-188",
+            "label": "Enter and Exit the fight caves"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-189",
+            "label": "Exit the TzHaar area and then exit the volcano"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-190",
+            "label": "Head north of the volcano to find 1 seaweed on the ground, pick it up and drop it 5 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-191",
+            "label": "Run east to the banana plantation"
+          }
+        },
+        {
+          "taskId": 14172,
+          "note": "Pick 5 bananas and fill a crate with them after talking to Luthas\nDrop the gold he gives you"
+        },
+        {
+          "taskId": 14605,
+          "note": "Fish 75 Lobsters from the pier nearby\nChop trees and light them for a fire"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-192",
+            "label": "Cook your Lobsters"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-193",
+            "label": "Catch 100 Lobsters",
+            "description": "(no L6 task ID found - kept as custom)"
+          }
+        },
+        {
+          "taskId": 14764
+        },
+        {
+          "taskId": 14762,
+          "note": "Cook your Tuna"
+        },
+        {
+          "taskId": 14796,
+          "note": "Catch 135 Swordfish\nYou are done fishing once the task pops up"
+        },
+        {
+          "taskId": 14761,
+          "note": "Cook 100 Swordfish"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-194",
+            "label": "Tele back to the TzHaar Area"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-195",
+            "label": "Deposit all, withdraw Staff of Water, Chaos/Death/Air Runes, Gold, Dramen Staff, Axe, Knife, Small Fishing Net, Pickaxe,",
+            "description": "Equip the staff and shield"
+          }
+        },
+        {
+          "taskId": 14794,
+          "note": "Safespot a TzHaar"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-196",
+            "label": "Exit the Mor El Uk"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-197",
+            "label": "Run north through the crack in the wall"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-198",
+            "label": "Take the rope up to crandor"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-199",
+            "label": "Exit crandor and go back through the wall, leave the volcano"
+          }
+        },
+        {
+          "taskId": 13739,
+          "note": "Kill a Scorpion with the spear equiped"
+        },
+        {
+          "taskId": 13907
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-200",
+            "label": "Head West through the gate to Brimhaven"
+          }
+        },
+        {
+          "taskId": 13908,
+          "note": "Enter the Brimhaven Agility Arena, do it until you have 10 Brimhaven Vouchers and 50 Agility\nCan turn in the tickets for XP. Not sure how many this would take, but it should be quick"
+        },
+        {
+          "taskId": 14343,
+          "note": "Exit the arena and purchase a snapdragon with the vouchers"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-201",
+            "label": "Head east to Moss Giant Island, take the rope over"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-202",
+            "label": "Kill a Moss Giant"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-203",
+            "label": "Swing back and head northeast to the Gold Rocks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-204",
+            "label": "Mine one gold rock"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-205",
+            "label": "Head south near the Brimhaven dungeon entrance"
+          }
+        },
+        {
+          "taskId": 14336,
+          "note": "Kill a snake"
+        },
+        {
+          "taskId": 13637,
+          "note": "Pick a Pineapple near the entrance"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-206",
+            "label": "Pay to enter the dungeon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-207",
+            "label": "Deleve deeper into the dungeon by cutting vines and stepping over the stones until you get to the Stairs to the Greater "
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-208",
+            "label": "Go down the stairs, continue in the dungeon until you get to the black demons."
+          }
+        },
+        {
+          "taskId": 14563,
+          "note": "Safespot a black demon, then head towards the metal dragons"
+        },
+        {
+          "taskId": 13878,
+          "note": "Kill a steel dragon"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-209",
+            "label": "League teleport to Brimhaven",
+            "description": "Or Minigame tele to TzHaar if that isn't a thing"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-210",
+            "label": "Take the Cart from Hajedy to Shilo Village"
+          }
+        },
+        {
+          "taskId": 13736,
+          "note": "Fish a Salmon in Shilo Village"
+        },
+        {
+          "taskId": 15194,
+          "note": "Take the shortcut over the river"
+        },
+        {
+          "taskId": 14574,
+          "note": "Go to the Inn, buy a ticket. Then go to the top floor to sleep"
+        },
+        {
+          "taskId": 15141,
+          "note": "Go to the gem rocks and mine them until you get and chisel a Red topaz."
+        },
+        {
+          "taskId": 15357
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-211",
+            "label": "Keep mining and chiseling until you have equal to 1200 trading sticks from chiseled gems. Opal are 60, Jade 90, Red Topa"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-212",
+            "label": "Exit Shilo Village through it's gate"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-213",
+            "label": "Wrap around Shilo Village to Cairn Island on the Western Side"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-214",
+            "label": "Climb the rocks, then walk over the bridge for the diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-215",
+            "label": "Pass by the bridge again and go to the nearby lake"
+          }
+        },
+        {
+          "taskId": 15099,
+          "note": "Fish up Karambwanji\nI would get a lot, as we can't buy it. 400-500+"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-216",
+            "label": "Go to the general store to the north"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-217",
+            "label": "Buy a machete"
+          }
+        },
+        {
+          "taskId": 15190,
+          "note": "Start and do part of the Tai Bwo Wanna Cleanup by chopping dense jungle and repairing the wall\nYou need 1% or more favor"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-218",
+            "label": "Trade in the Gems to Gabooty"
+          }
+        },
+        {
+          "taskId": 15378,
+          "note": "Buy and equip one whole villagar set with 1200 tickets"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-219",
+            "label": "Sell the outfit back once you get the task, we need tickets."
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-220",
+            "label": "Start and continue Tai Bwo Wanna Trio until you need to talk to Lubufu"
+          }
+        },
+        {
+          "taskId": 14027,
+          "note": "Use 100 Trading sticks to get into the hardwood grove"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-221",
+            "label": "Chop 1 Teak Log and 1 Mahogany Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-222",
+            "label": "Exit the grove, and go northeast and then  west into the Pothole Dungeon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-223",
+            "label": "Kill a Jogre"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-224",
+            "label": "League teleport to Brimhaven",
+            "description": "Or Minigame tele to TzHaar if that isn't a thing"
+          }
+        },
+        {
+          "taskId": 14600,
+          "note": "Get the Easy Karamja Diary rewards"
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-225",
+            "label": "Use the lamp on herblore"
+          }
+        },
+        {
+          "customItem": {
+            "id": "karamja-brimhaven-shilo-villag-226",
+            "label": "Talk to Lubufu to continue the quest until you can fish Karambwans. You won't be able to finish the quest."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ortus-farm-hunter-slayer-final",
+      "name": "Ortus Farm / Hunter / Slayer / Final",
+      "items": [
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-227",
+            "label": "League or Home Teleport to Civitas, withdraw Gold"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-228",
+            "label": "Go to Ortus Farm"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-229",
+            "label": "Steal from master Farmer for Limpwurt, Tarromin, and Marrentil Seeds"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-230",
+            "label": "Plant the Limpwurt and Tarromin",
+            "description": "Buy Compost and use it on them"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-231",
+            "label": "Quetzal to Aldarin"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-232",
+            "label": "Go to North Aldarin and kill at least 1 Unicorn for a horn"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-233",
+            "label": "Quetzal back to Civitas"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-234",
+            "label": "Go back to Ortus Farm"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-235",
+            "label": "Harvest Limpwurt and Tarromin",
+            "description": "If not ready yet pickpocket master farmer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-236",
+            "label": "Plant the Marrentil",
+            "description": "Buy Compost and use it"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-237",
+            "label": "Deposit all, withdraw Pickaxe"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-238",
+            "label": "Quetzal to Sunset Coast"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-239",
+            "label": "Run southeast to the agility course"
+          }
+        },
+        {
+          "taskId": 13328,
+          "note": "Do 10 laps"
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-240",
+            "label": "Run East to Stonecutter Outpost"
+          }
+        },
+        {
+          "taskId": 15318,
+          "note": "Mine 50 Mithril and one coal\nYou can bank if you want, but isn't required"
+        },
+        {
+          "taskId": 15144
+        },
+        {
+          "taskId": 14946
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-241",
+            "label": "Run back to sunset coast Quetzal"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-242",
+            "label": "Quetzal to Hunter Guild, run north to Ortus Farm"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-243",
+            "label": "Harvest your marrentil"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-244",
+            "label": "Run east into the bank"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-245",
+            "label": "Withdraw Pestle and Mortar, Vials of Water, Limpwurt, Marrentil, Tarromin, and unicorn Horn"
+          }
+        },
+        {
+          "taskId": 14870,
+          "note": "Crush the Unicorn Horn then make an Antipoison"
+        },
+        {
+          "taskId": 14816,
+          "note": "Make a Strength Potion and drink it"
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-246",
+            "label": "Deposit all, withdraw Butterfly net"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-247",
+            "label": "Quetzal to Ralos Rise"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-248",
+            "label": "Run North to the Mountain North of here"
+          }
+        },
+        {
+          "taskId": 14819,
+          "note": "Catch Snowy Knights until 46 Hunter"
+        },
+        {
+          "taskId": 14769
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-249",
+            "label": "Quetzal to the Hunter's Guild"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-250",
+            "label": "Withdraw Gold, Costume Needle, Hammer, Axe, Knife"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-251",
+            "label": "Buy Box Traps at the nearby shop"
+          }
+        },
+        {
+          "taskId": 15254,
+          "note": "Complete At First Light\nDuring the quest, when catching Jerboa go into the cave to the East"
+        },
+        {
+          "taskId": 14622
+        },
+        {
+          "taskId": 14714
+        },
+        {
+          "taskId": 15276,
+          "note": "Catch a Pyre fox to the southeast after the quest"
+        },
+        {
+          "taskId": 15350,
+          "note": "Complete Hunter Rumors until 57\nFrom here it is a your pickn of longer grinds that aren't as focused as the previous guide. You can continue and it will give you guidance what to do, or you can start branching out and even going to your new regions."
+        },
+        {
+          "taskId": 15293,
+          "note": "Complete Adept Rumors until you get 72 Hunter\nWhen you finish 10 Rumors get your whistle blueprint from the Soar Leader on top of the guild. Make the Whistle"
+        },
+        {
+          "taskId": 15358
+        },
+        {
+          "taskId": 15325
+        },
+        {
+          "taskId": 14736,
+          "note": "Do Expert rumors until you get 25 Rumors done\nYou can get a block list for Aco to just be Red Chins, but there are very few on Varlamore and it isn't super viable. Antelope would be more realistic, even with Woodsman."
+        },
+        {
+          "taskId": 15251
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-252",
+            "label": "You should get enough feed to make a Quetzal landing site"
+          }
+        },
+        {
+          "taskId": 15249,
+          "note": "Buy the resources to do so and build one near the agility course\nIf you dont have enough feed do more rumors"
+        },
+        {
+          "taskId": 14265,
+          "note": "You should have an easy clue or two from Wealthy Citizens. Do them until you get a unique"
+        },
+        {
+          "taskId": 14434
+        },
+        {
+          "taskId": 13597,
+          "note": "Complete your slayer task if you haven't."
+        },
+        {
+          "taskId": 13617,
+          "note": "Get new tasks until you kill at least 250 slayer monsters, and hit 48 slayer"
+        },
+        {
+          "taskId": 15163
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-253",
+            "label": "Craft and sell rubies for 20k or more GP in Aldarin"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-254",
+            "label": "Purchase a rune mace from the shop in Outer Fortis"
+          }
+        },
+        {
+          "taskId": 13667,
+          "note": "Defeat an Oryx in the Avium Savannah with melee."
+        },
+        {
+          "taskId": 14572,
+          "note": "Complete The Heart of Darkness, while doing the quest activate the statue of ates East of the Tower of Ascension\nBring Rune Mace+Full Addy+Food"
+        },
+        {
+          "taskId": 14683
+        },
+        {
+          "taskId": 13664,
+          "note": "1 Amoxliatl Kill"
+        },
+        {
+          "taskId": 13902,
+          "note": "Kill 10 Frost Crabs\nUse the Rune Mace"
+        },
+        {
+          "taskId": 13663
+        },
+        {
+          "taskId": 14153,
+          "note": "Kill either Amoxliatl or Frost Naguas until you get a pendant and Glacial Temolti, also get 55 attack and equip both"
+        },
+        {
+          "taskId": 14173
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-255",
+            "label": "League Teleport to Civitas"
+          }
+        },
+        {
+          "taskId": 13614,
+          "note": "Sacrifice your rune mace to Death's coffer"
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-256",
+            "label": "Quetzal to Tel Taklan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-257",
+            "label": "Purchase 4 Willow Longbows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-258",
+            "label": "Quetzal to Auburnvale"
+          }
+        },
+        {
+          "taskId": 14681
+        },
+        {
+          "taskId": 13662,
+          "note": "Withdraw food and combat weapons+equipment, then go to a mass world and kill Huey once"
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-259",
+            "label": "Go to the moons of Peril"
+          }
+        },
+        {
+          "taskId": 14262,
+          "note": "Get and equip the Sulphur Blades"
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-260",
+            "label": "Quetzal to Tel Taklan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-261",
+            "label": "Withdraw Fly Fishing Rod, Tinderbox, Axe, and Feathers"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-262",
+            "label": "Fish and cook fish until 65 Fishing"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-263",
+            "label": "Withdraw Dramen Staff, Karambwan Vessel, Karabwanji"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-264",
+            "label": "Go to the Karambwan fishing spot via fiary ring DKP"
+          }
+        },
+        {
+          "taskId": 15178
+        },
+        {
+          "customItem": {
+            "id": "ortus-farm-hunter-slayer-final-265",
+            "label": "Cook your Karambwans"
+          }
+        }
+      ]
+    }
+  ]
+}
