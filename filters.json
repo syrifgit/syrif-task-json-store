@@ -92,19 +92,11 @@
     ]
   },
   {
-    "slug": "category",
+    "configKey": "category",
     "label": "Category",
     "filterType": "DROPDOWN_FILTER",
     "valueType": "PARAM_INTEGER",
     "valueName": "category",
-    "optionLabelEnum": "category",
-    "customItems": [
-      { "value": 1, "spriteId": 2731, "tooltip": "Skill" },
-      { "value": 2, "spriteId": 2732, "tooltip": "Combat" },
-      { "value": 3, "spriteId": 2733, "tooltip": "Quest" },
-      { "value": 4, "spriteId": 2734, "tooltip": "Achievement" },
-      { "value": 5, "spriteId": 2735, "tooltip": "Minigame" },
-      { "value": 6, "spriteId": 2736, "tooltip": "Other" }
-    ]
+    "optionLabelEnum": "category"
   }
 ]

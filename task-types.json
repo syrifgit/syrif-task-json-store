@@ -136,7 +136,7 @@
     "taskJsonName": "LEAGUE_6",
     "taskSourceType": "DBROW",
     "isEnabled": true,
-    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across ~50 varps in the VarPlayerID.LEAGUE_TASK_0..63 block (IDs TBC). Populate taskVarps with the 64 consecutive IDs once known; plugin's bounds check means extra empty slots are harmless. Filters disabled until plugin's ParamButtonFilter empty-config bug is fixed (see plugin-side fix: empty config should pass-through, not hide).",
+    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across ~50 varps in the VarPlayerID.LEAGUE_TASK_0..63 block (IDs TBC). Populate taskVarps with the 64 consecutive IDs once known; plugin's bounds check means extra empty slots are harmless.",
     "filters": [
       {
         "configKey": "leagueTier",
@@ -172,6 +172,10 @@
       {
         "configKey": "area",
         "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "category",
+        "valueType": "GLOBAL"
       }
     ],
     "stringParamMap": {
@@ -187,7 +191,9 @@
     "intEnumMap": {
       "tierPoints": 2671
     },
-    "stringEnumMap": {},
+    "stringEnumMap": {
+      "category": 3413
+    },
     "tierSpriteIdMap": {
       "1": 2316,
       "2": 2318,
